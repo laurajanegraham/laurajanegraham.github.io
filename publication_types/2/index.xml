@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Laura Jane Graham</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Laura Jane Graham</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The incidence function model as a tool for landscape-scale ecological impact assessments</title>
+      <link>/publication/2018-01-01_the_incidence_funct/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_the_incidence_funct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future geographic patterns of novel and disappearing assemblages across three dimensions of diversity: A case study with Ecuadorian hummingbirds</title>
+      <link>/publication/2017-01-01_future_geographic_p/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-01-01_future_geographic_p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metapopulation modelling of long-term urban habitat-loss scenarios</title>
+      <link>/publication/2017-01-01_metapopulation_mode/</link>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-01-01_metapopulation_mode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using citizen science data for conservation planning: Methods for quality control and downscaling for use in stochastic patch occupancy modelling</title>
+      <link>/publication/2015-01-01_using_citizen_scien/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-01-01_using_citizen_scien/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where next for macroecology: citizen macroecology?</title>
+      <link>/publication/2014-01-01_where_next_for_macr/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2014-01-01_where_next_for_macr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
