@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/post/getting-started/</loc>
+      <lastmod>2018-05-27T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/2018-01-01_the_incidence_funct/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -143,6 +152,16 @@
     
       <loc>/publication_types/6/</loc>
       <lastmod>2016-04-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/blogdown/</loc>
+      <lastmod>2018-05-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

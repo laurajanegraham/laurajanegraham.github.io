@@ -11,6 +11,238 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Building a website with blogdown</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/post/getting-started/</guid>
+      <description>
+
+&lt;p&gt;Having seen a few nice looking websites which use the Hugo academic theme, I thought I&amp;rsquo;d have a go at revamping my website. I&amp;rsquo;m not going to write a whole new post about how to do this - there are plenty of these online. I just thought I&amp;rsquo;d point out some resources that I found useful.&lt;/p&gt;
+
+&lt;p&gt;I mainly worked from Alistair Bailey&amp;rsquo;s really detailed guide to &lt;a href=&#34;http://ab604.github.io/docs/website_bookdown/&#34; target=&#34;_blank&#34;&gt;building a website using blogdown in R&lt;/a&gt;. This was pretty comprehensive and I had a site I was happy with up and running very quickly. Two key things I needed from elsewhere were (1) how to upload the site to my existing GitHub pages address; and (2) how to get the &lt;code&gt;cite&lt;/code&gt; buttons on publications that I&amp;rsquo;d seen on other sites.&lt;/p&gt;
+
+&lt;h3 id=&#34;linking-to-github-pages&#34;&gt;Linking to GitHub pages&lt;/h3&gt;
+
+&lt;p&gt;The main issue I had with building the site was linking it to my existing GitHub pages site. The guide I followed provided instructions on linking to Netlify. For anyone also wanting to link to GitHub pages, Tyler Clavelle explains how to do so with a &lt;a href=&#34;https://tclavelle.github.io/blog/blogdown_github/&#34; target=&#34;_blank&#34;&gt;two repository approach&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;cite-button&#34;&gt;Cite button&lt;/h3&gt;
+
+&lt;p&gt;To get the &lt;code&gt;cite&lt;/code&gt; button next to the publication (along with &lt;code&gt;PDF&lt;/code&gt; &lt;code&gt;Code&lt;/code&gt; etc. buttons), there needs to be a separate &lt;code&gt;.bib&lt;/code&gt; file for each publication in the &lt;code&gt;static/files/citations&lt;/code&gt; directory. This file needs to have the same name as the &lt;code&gt;.md&lt;/code&gt; file for the publication. I have modified the code by &lt;a href=&#34;https://lbusett.netlify.com/post/automatically-importing-publications-from-bibtex-to-a-hugo-academic-blog/&#34; target=&#34;_blank&#34;&gt;Lorenzo Busetto&lt;/a&gt; (which creates the required &lt;code&gt;.md&lt;/code&gt; files for each publication) to also output &lt;code&gt;.bib&lt;/code&gt; files to &lt;code&gt;static/files/citations&lt;/code&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;bibtex_2academic &amp;lt;- function(bibfile,
+                             abstract = TRUE,
+                             overwrite = FALSE) {
+  require(RefManageR)
+  require(dplyr)
+  require(stringr)
+  require(anytime)
+  
+  # Import the bibtex file and convert to data.frame
+  mypubs   &amp;lt;-
+    ReadBib(bibfile, check = &amp;quot;warn&amp;quot;, 
+            .Encoding = &amp;quot;UTF-8&amp;quot;) %&amp;gt;%
+    as.data.frame()
+  
+  # assign &amp;quot;categories&amp;quot; to the different types of
+  # publications
+  mypubs   &amp;lt;- mypubs %&amp;gt;%
+    dplyr::mutate(
+      pubtype = dplyr::case_when(
+        bibtype == &amp;quot;Article&amp;quot; ~ &amp;quot;2&amp;quot;,
+        bibtype == &amp;quot;Article in Press&amp;quot; ~ &amp;quot;2&amp;quot;,
+        bibtype == &amp;quot;InProceedings&amp;quot; ~ &amp;quot;1&amp;quot;,
+        bibtype == &amp;quot;Proceedings&amp;quot; ~ &amp;quot;1&amp;quot;,
+        bibtype == &amp;quot;Conference&amp;quot; ~ &amp;quot;1&amp;quot;,
+        bibtype == &amp;quot;Conference Paper&amp;quot; ~ &amp;quot;1&amp;quot;,
+        bibtype == &amp;quot;MastersThesis&amp;quot; ~ &amp;quot;3&amp;quot;,
+        bibtype == &amp;quot;PhdThesis&amp;quot; ~ &amp;quot;3&amp;quot;,
+        bibtype == &amp;quot;Manual&amp;quot; ~ &amp;quot;4&amp;quot;,
+        bibtype == &amp;quot;TechReport&amp;quot; ~ &amp;quot;4&amp;quot;,
+        bibtype == &amp;quot;Book&amp;quot; ~ &amp;quot;5&amp;quot;,
+        bibtype == &amp;quot;InCollection&amp;quot; ~ &amp;quot;6&amp;quot;,
+        bibtype == &amp;quot;InBook&amp;quot; ~ &amp;quot;6&amp;quot;,
+        bibtype == &amp;quot;Misc&amp;quot; ~ &amp;quot;0&amp;quot;,
+        TRUE ~ &amp;quot;0&amp;quot;
+      )
+    )
+  
+  # function to create the filename
+  create_filename &amp;lt;- function(x, ext) {
+    filename &amp;lt;- paste(
+      x[[&amp;quot;year&amp;quot;]],
+      x[[&amp;quot;title&amp;quot;]] %&amp;gt;%
+        str_replace_all(fixed(&amp;quot; &amp;quot;), &amp;quot;_&amp;quot;) %&amp;gt;%
+        str_remove_all(fixed(&amp;quot;:&amp;quot;)) %&amp;gt;%
+        str_sub(1, 20) %&amp;gt;%
+        paste0(ext),
+      sep = &amp;quot;_&amp;quot;
+    )
+  } 
+  
+  # create a function which populates the md template 
+  # based on the info
+  # about a publication
+  create_md &amp;lt;- function(x) {
+    # define a date and create filename by appending date 
+    # and start of title
+    if (!is.na(x[[&amp;quot;year&amp;quot;]])) {
+      x[[&amp;quot;date&amp;quot;]] &amp;lt;- paste0(x[[&amp;quot;year&amp;quot;]], &amp;quot;-01-01&amp;quot;)
+    } else {
+      x[[&amp;quot;date&amp;quot;]] &amp;lt;- &amp;quot;2999-01-01&amp;quot;
+    }
+    
+    filename &amp;lt;- create_filename(x, &amp;quot;.md&amp;quot;)
+    # start writing
+    if (!file.exists(file.path(&amp;quot;content/publication&amp;quot;, filename)) |
+        overwrite) {
+      fileConn &amp;lt;- file.path(&amp;quot;content/publication&amp;quot;, filename)
+      write(&amp;quot;+++&amp;quot;, fileConn)
+      
+      # Title and date
+      write(paste0(&amp;quot;title = \&amp;quot;&amp;quot;, x[[&amp;quot;title&amp;quot;]], &amp;quot;\&amp;quot;&amp;quot;),
+            fileConn,
+            append = T)
+      write(paste0(&amp;quot;date = \&amp;quot;&amp;quot;, anydate(x[[&amp;quot;date&amp;quot;]]), &amp;quot;\&amp;quot;&amp;quot;),
+            fileConn,
+            append = T)
+      
+      # Authors. Comma separated list, e.g. `[&amp;quot;Bob Smith&amp;quot;, 
+      # &amp;quot;David Jones&amp;quot;]`.
+      auth_hugo &amp;lt;-
+        str_replace_all(x[&amp;quot;author&amp;quot;], &amp;quot; and &amp;quot;, &amp;quot;\&amp;quot;, \&amp;quot;&amp;quot;)
+      auth_hugo &amp;lt;-
+        stringi::stri_trans_general(auth_hugo, &amp;quot;latin-ascii&amp;quot;)
+      write(paste0(&amp;quot;authors = [\&amp;quot;&amp;quot;, auth_hugo, &amp;quot;\&amp;quot;]&amp;quot;),
+            fileConn,
+            append = T)
+      
+      # Publication type. Legend:
+      # 0 = Uncategorized, 1 = Conference paper, 
+      # 2 = Journal article
+      # 3 = Manuscript, 4 = Report, 5 = Book,  6 = Book
+      # section
+      write(paste0(&amp;quot;publication_types = [\&amp;quot;&amp;quot;, x[[&amp;quot;pubtype&amp;quot;]],
+                   &amp;quot;\&amp;quot;]&amp;quot;),
+            fileConn,
+            append = T)
+      
+      # Publication details: journal, volume, issue, 
+      # page numbers and doi link
+      publication &amp;lt;- x[[&amp;quot;journal&amp;quot;]]
+      if (!is.na(x[[&amp;quot;volume&amp;quot;]]))
+        publication &amp;lt;- paste0(publication,
+                              &amp;quot;, (&amp;quot;, x[[&amp;quot;volume&amp;quot;]], &amp;quot;)&amp;quot;)
+      if (!is.na(x[[&amp;quot;pages&amp;quot;]]))
+        publication &amp;lt;- paste0(publication,
+                              &amp;quot;, _pp. &amp;quot;, x[[&amp;quot;pages&amp;quot;]], &amp;quot;_&amp;quot;)
+      if (!is.na(x[[&amp;quot;doi&amp;quot;]]))
+        publication &amp;lt;- paste0(publication,
+                              &amp;quot;, &amp;quot;,
+                              paste0(&amp;quot;https://doi.org/&amp;quot;,
+                                     x[[&amp;quot;doi&amp;quot;]]))
+      
+      write(paste0(&amp;quot;publication = \&amp;quot;&amp;quot;, publication, &amp;quot;\&amp;quot;&amp;quot;),
+            fileConn,
+            append = T)
+      write(paste0(&amp;quot;publication_short = \&amp;quot;&amp;quot;,
+                   publication,
+                   &amp;quot;\&amp;quot;&amp;quot;),
+            fileConn,
+            append = T)
+      
+      # Abstract and optional shortened version.
+      if (abstract) {
+        write(paste0(&amp;quot;abstract = \&amp;quot;&amp;quot;, x[[&amp;quot;abstract&amp;quot;]], &amp;quot;\&amp;quot;&amp;quot;),
+              fileConn,
+              append = T)
+      } else {
+        write(&amp;quot;abstract = \&amp;quot;\&amp;quot;&amp;quot;,
+              fileConn,
+              append = T)
+      }
+      write(paste0(&amp;quot;abstract_short = \&amp;quot;&amp;quot;, &amp;quot;\&amp;quot;&amp;quot;),
+            fileConn,
+            append = T)
+      
+      # other possible fields are kept empty. They can be
+      # customized later by
+      # editing the created md
+      
+      write(&amp;quot;image_preview = \&amp;quot;\&amp;quot;&amp;quot;,
+            fileConn,
+            append = T)
+      write(&amp;quot;selected = false&amp;quot;, fileConn, append = T)
+      write(&amp;quot;projects = []&amp;quot;, fileConn, append = T)
+      write(&amp;quot;tags = []&amp;quot;, fileConn, append = T)
+      #links
+      write(&amp;quot;url_pdf = \&amp;quot;\&amp;quot;&amp;quot;, fileConn, append = T)
+      write(&amp;quot;url_preprint = \&amp;quot;\&amp;quot;&amp;quot;,
+            fileConn,
+            append = T)
+      write(&amp;quot;url_code = \&amp;quot;\&amp;quot;&amp;quot;, fileConn, append = T)
+      write(&amp;quot;url_dataset = \&amp;quot;\&amp;quot;&amp;quot;,
+            fileConn,
+            append = T)
+      write(&amp;quot;url_project = \&amp;quot;\&amp;quot;&amp;quot;,
+            fileConn,
+            append = T)
+      write(&amp;quot;url_slides = \&amp;quot;\&amp;quot;&amp;quot;, fileConn, append = T)
+      write(&amp;quot;url_video = \&amp;quot;\&amp;quot;&amp;quot;, fileConn, append = T)
+      write(&amp;quot;url_poster = \&amp;quot;\&amp;quot;&amp;quot;, fileConn, append = T)
+      write(&amp;quot;url_source = \&amp;quot;\&amp;quot;&amp;quot;, fileConn, append = T)
+      #other stuff
+      write(&amp;quot;math = true&amp;quot;, fileConn, append = T)
+      write(&amp;quot;highlight = true&amp;quot;, fileConn, append = T)
+      # Featured image
+      write(&amp;quot;[header]&amp;quot;, fileConn, append = T)
+      write(&amp;quot;image = \&amp;quot;\&amp;quot;&amp;quot;, fileConn, append = T)
+      write(&amp;quot;caption = \&amp;quot;\&amp;quot;&amp;quot;, fileConn, append = T)
+      
+      write(&amp;quot;+++&amp;quot;, fileConn, append = T)
+    }
+  }
+  # apply the &amp;quot;create_md&amp;quot; function over the 
+  # publications list to generate
+  # the different &amp;quot;md&amp;quot; files.
+  
+  apply(
+    mypubs,
+    FUN = function(x)
+      create_md(x),
+    MARGIN = 1
+  )
+  
+  # Added section to output .bib files to get the cite button
+  lapply(
+    1:nrow(mypubs),
+    FUN = function(x) {
+      # define a date and create filename by appending date 
+      # and start of title
+      filename = create_filename(mypubs[x,], &amp;quot;.bib&amp;quot;)
+      bib &amp;lt;- as.BibEntry(mypubs[x,])
+      WriteBib(bib, paste0(&amp;quot;static/files/citations/&amp;quot;, filename))
+    }
+  )
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;final-thoughts-and-extra-resources&#34;&gt;Final thoughts and extra resources&lt;/h3&gt;
+
+&lt;p&gt;To make tweaks to my site, I mostly just found it useful to have a bit of a look at other sites that have been built with blogdown. Often the source code is discoverable (for example for a &lt;code&gt;&amp;lt;username&amp;gt;.github.io&lt;/code&gt; site, the code will be at &lt;code&gt;github.com/&amp;lt;username&amp;gt;/&amp;lt;username&amp;gt;.github.io&lt;/code&gt;). There are lots of resources out there about using blogdown to build sites. Here are some examples:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt;The blogdown package handbook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://alison.rbind.io/post/up-and-running-with-blogdown/&#34; target=&#34;_blank&#34;&gt;Up and running with blogdown, by Alison Presmanes Hill&lt;/a&gt;: This guide also provides links to resources on using Git, RStudio and Terminal.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mikeyharper.uk/migrating-to-blogdown/&#34; target=&#34;_blank&#34;&gt;Mikey Harper explains the why of migrating to blogdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&amp;hellip;and many more out there.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Happy website building!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The incidence function model as a tool for landscape-scale ecological impact assessments</title>
       <link>/publication/2018-01-01_the_incidence_funct/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>

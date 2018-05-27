@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme" content="hugo-academic">
+  <meta name="generator" content="Hugo 0.41" />
+  <meta name="author" content="Laura Jane Graham">
+
+  
+  
+  
+  
+    
+      
+    
+  
+  <meta name="description" content="Having seen a few nice looking websites which use the Hugo academic theme, I thought I&rsquo;d have a go at revamping my website. I&rsquo;m not going to write a whole new post about how to do this - there are plenty of these online. I just thought I&rsquo;d point out some resources that I found useful.
+I mainly worked from Alistair Bailey&rsquo;s really detailed guide to building a website using blogdown in R.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/post/getting-started/">
+
+  
+
+
+  
+
+  
+  
+  <meta name="theme-color" content="#0095eb">
+  
+  
+  
+  
+    
+  
+  
+    
+    
+      
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+      
+    
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+  
+  
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700%7cRoboto:400,400italic,700%7cRoboto&#43;Mono">
+  
+  <link rel="stylesheet" href="/styles.css">
+  
+
+  
+
+  
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Laura Jane Graham">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Laura Jane Graham">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/post/getting-started/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@laurajanegraham">
+  <meta property="twitter:creator" content="@laurajanegraham">
+  
+  <meta property="og:site_name" content="Laura Jane Graham">
+  <meta property="og:url" content="/post/getting-started/">
+  <meta property="og:title" content="Building a website with blogdown | Laura Jane Graham">
+  <meta property="og:description" content="Having seen a few nice looking websites which use the Hugo academic theme, I thought I&rsquo;d have a go at revamping my website. I&rsquo;m not going to write a whole new post about how to do this - there are plenty of these online. I just thought I&rsquo;d point out some resources that I found useful.
+I mainly worked from Alistair Bailey&rsquo;s really detailed guide to building a website using blogdown in R."><meta property="og:image" content="/img/headers/hex-blogdown.jpg">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2018-05-27T00:00:00&#43;01:00">
+  
+  <meta property="article:modified_time" content="2018-05-27T00:00:00&#43;01:00">
+  
+
+  
+  
+
+  <title>Building a website with blogdown | Laura Jane Graham</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="navbar-header">
+      
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+      <a class="navbar-brand" href="/">Laura Jane Graham</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse">
+
+      
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#publications">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#projects">
+            
+            <span>Projects</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#posts">
+            
+            <span>Posts</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+      
+
+      
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+<div class="article-header">
+  
+  
+    <img src="/img/headers/hex-blogdown.jpg" class="article-banner" itemprop="image">
+  
+
+  
+</div>
+
+
+
+  <div class="article-container">
+    <h1 itemprop="name">Building a website with blogdown</h1>
+
+    
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    
+    <time datetime="2018-05-27 00:00:00 &#43;0100 BST" itemprop="datePublished dateModified">
+      May 27, 2018
+    </time>
+  </span>
+  <span itemscope itemprop="author publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Laura Jane Graham">
+  </span>
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    5 min read
+  </span>
+  
+
+  
+  
+
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Building%20a%20website%20with%20blogdown&amp;url=%2fpost%2fgetting-started%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=%2fpost%2fgetting-started%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpost%2fgetting-started%2f&amp;title=Building%20a%20website%20with%20blogdown"
+         target="_blank" rel="noopener">
+        <i class="fa fa-linkedin"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=%2fpost%2fgetting-started%2f&amp;title=Building%20a%20website%20with%20blogdown"
+         target="_blank" rel="noopener">
+        <i class="fa fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Building%20a%20website%20with%20blogdown&amp;body=%2fpost%2fgetting-started%2f">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+
+    <div class="article-style" itemprop="articleBody">
+      
+
+<p>Having seen a few nice looking websites which use the Hugo academic theme, I thought I&rsquo;d have a go at revamping my website. I&rsquo;m not going to write a whole new post about how to do this - there are plenty of these online. I just thought I&rsquo;d point out some resources that I found useful.</p>
+
+<p>I mainly worked from Alistair Bailey&rsquo;s really detailed guide to <a href="http://ab604.github.io/docs/website_bookdown/" target="_blank">building a website using blogdown in R</a>. This was pretty comprehensive and I had a site I was happy with up and running very quickly. Two key things I needed from elsewhere were (1) how to upload the site to my existing GitHub pages address; and (2) how to get the <code>cite</code> buttons on publications that I&rsquo;d seen on other sites.</p>
+
+<h3 id="linking-to-github-pages">Linking to GitHub pages</h3>
+
+<p>The main issue I had with building the site was linking it to my existing GitHub pages site. The guide I followed provided instructions on linking to Netlify. For anyone also wanting to link to GitHub pages, Tyler Clavelle explains how to do so with a <a href="https://tclavelle.github.io/blog/blogdown_github/" target="_blank">two repository approach</a>.</p>
+
+<h3 id="cite-button">Cite button</h3>
+
+<p>To get the <code>cite</code> button next to the publication (along with <code>PDF</code> <code>Code</code> etc. buttons), there needs to be a separate <code>.bib</code> file for each publication in the <code>static/files/citations</code> directory. This file needs to have the same name as the <code>.md</code> file for the publication. I have modified the code by <a href="https://lbusett.netlify.com/post/automatically-importing-publications-from-bibtex-to-a-hugo-academic-blog/" target="_blank">Lorenzo Busetto</a> (which creates the required <code>.md</code> files for each publication) to also output <code>.bib</code> files to <code>static/files/citations</code>:</p>
+
+<pre><code>bibtex_2academic &lt;- function(bibfile,
+                             abstract = TRUE,
+                             overwrite = FALSE) {
+  require(RefManageR)
+  require(dplyr)
+  require(stringr)
+  require(anytime)
+  
+  # Import the bibtex file and convert to data.frame
+  mypubs   &lt;-
+    ReadBib(bibfile, check = &quot;warn&quot;, 
+            .Encoding = &quot;UTF-8&quot;) %&gt;%
+    as.data.frame()
+  
+  # assign &quot;categories&quot; to the different types of
+  # publications
+  mypubs   &lt;- mypubs %&gt;%
+    dplyr::mutate(
+      pubtype = dplyr::case_when(
+        bibtype == &quot;Article&quot; ~ &quot;2&quot;,
+        bibtype == &quot;Article in Press&quot; ~ &quot;2&quot;,
+        bibtype == &quot;InProceedings&quot; ~ &quot;1&quot;,
+        bibtype == &quot;Proceedings&quot; ~ &quot;1&quot;,
+        bibtype == &quot;Conference&quot; ~ &quot;1&quot;,
+        bibtype == &quot;Conference Paper&quot; ~ &quot;1&quot;,
+        bibtype == &quot;MastersThesis&quot; ~ &quot;3&quot;,
+        bibtype == &quot;PhdThesis&quot; ~ &quot;3&quot;,
+        bibtype == &quot;Manual&quot; ~ &quot;4&quot;,
+        bibtype == &quot;TechReport&quot; ~ &quot;4&quot;,
+        bibtype == &quot;Book&quot; ~ &quot;5&quot;,
+        bibtype == &quot;InCollection&quot; ~ &quot;6&quot;,
+        bibtype == &quot;InBook&quot; ~ &quot;6&quot;,
+        bibtype == &quot;Misc&quot; ~ &quot;0&quot;,
+        TRUE ~ &quot;0&quot;
+      )
+    )
+  
+  # function to create the filename
+  create_filename &lt;- function(x, ext) {
+    filename &lt;- paste(
+      x[[&quot;year&quot;]],
+      x[[&quot;title&quot;]] %&gt;%
+        str_replace_all(fixed(&quot; &quot;), &quot;_&quot;) %&gt;%
+        str_remove_all(fixed(&quot;:&quot;)) %&gt;%
+        str_sub(1, 20) %&gt;%
+        paste0(ext),
+      sep = &quot;_&quot;
+    )
+  } 
+  
+  # create a function which populates the md template 
+  # based on the info
+  # about a publication
+  create_md &lt;- function(x) {
+    # define a date and create filename by appending date 
+    # and start of title
+    if (!is.na(x[[&quot;year&quot;]])) {
+      x[[&quot;date&quot;]] &lt;- paste0(x[[&quot;year&quot;]], &quot;-01-01&quot;)
+    } else {
+      x[[&quot;date&quot;]] &lt;- &quot;2999-01-01&quot;
+    }
+    
+    filename &lt;- create_filename(x, &quot;.md&quot;)
+    # start writing
+    if (!file.exists(file.path(&quot;content/publication&quot;, filename)) |
+        overwrite) {
+      fileConn &lt;- file.path(&quot;content/publication&quot;, filename)
+      write(&quot;+++&quot;, fileConn)
+      
+      # Title and date
+      write(paste0(&quot;title = \&quot;&quot;, x[[&quot;title&quot;]], &quot;\&quot;&quot;),
+            fileConn,
+            append = T)
+      write(paste0(&quot;date = \&quot;&quot;, anydate(x[[&quot;date&quot;]]), &quot;\&quot;&quot;),
+            fileConn,
+            append = T)
+      
+      # Authors. Comma separated list, e.g. `[&quot;Bob Smith&quot;, 
+      # &quot;David Jones&quot;]`.
+      auth_hugo &lt;-
+        str_replace_all(x[&quot;author&quot;], &quot; and &quot;, &quot;\&quot;, \&quot;&quot;)
+      auth_hugo &lt;-
+        stringi::stri_trans_general(auth_hugo, &quot;latin-ascii&quot;)
+      write(paste0(&quot;authors = [\&quot;&quot;, auth_hugo, &quot;\&quot;]&quot;),
+            fileConn,
+            append = T)
+      
+      # Publication type. Legend:
+      # 0 = Uncategorized, 1 = Conference paper, 
+      # 2 = Journal article
+      # 3 = Manuscript, 4 = Report, 5 = Book,  6 = Book
+      # section
+      write(paste0(&quot;publication_types = [\&quot;&quot;, x[[&quot;pubtype&quot;]],
+                   &quot;\&quot;]&quot;),
+            fileConn,
+            append = T)
+      
+      # Publication details: journal, volume, issue, 
+      # page numbers and doi link
+      publication &lt;- x[[&quot;journal&quot;]]
+      if (!is.na(x[[&quot;volume&quot;]]))
+        publication &lt;- paste0(publication,
+                              &quot;, (&quot;, x[[&quot;volume&quot;]], &quot;)&quot;)
+      if (!is.na(x[[&quot;pages&quot;]]))
+        publication &lt;- paste0(publication,
+                              &quot;, _pp. &quot;, x[[&quot;pages&quot;]], &quot;_&quot;)
+      if (!is.na(x[[&quot;doi&quot;]]))
+        publication &lt;- paste0(publication,
+                              &quot;, &quot;,
+                              paste0(&quot;https://doi.org/&quot;,
+                                     x[[&quot;doi&quot;]]))
+      
+      write(paste0(&quot;publication = \&quot;&quot;, publication, &quot;\&quot;&quot;),
+            fileConn,
+            append = T)
+      write(paste0(&quot;publication_short = \&quot;&quot;,
+                   publication,
+                   &quot;\&quot;&quot;),
+            fileConn,
+            append = T)
+      
+      # Abstract and optional shortened version.
+      if (abstract) {
+        write(paste0(&quot;abstract = \&quot;&quot;, x[[&quot;abstract&quot;]], &quot;\&quot;&quot;),
+              fileConn,
+              append = T)
+      } else {
+        write(&quot;abstract = \&quot;\&quot;&quot;,
+              fileConn,
+              append = T)
+      }
+      write(paste0(&quot;abstract_short = \&quot;&quot;, &quot;\&quot;&quot;),
+            fileConn,
+            append = T)
+      
+      # other possible fields are kept empty. They can be
+      # customized later by
+      # editing the created md
+      
+      write(&quot;image_preview = \&quot;\&quot;&quot;,
+            fileConn,
+            append = T)
+      write(&quot;selected = false&quot;, fileConn, append = T)
+      write(&quot;projects = []&quot;, fileConn, append = T)
+      write(&quot;tags = []&quot;, fileConn, append = T)
+      #links
+      write(&quot;url_pdf = \&quot;\&quot;&quot;, fileConn, append = T)
+      write(&quot;url_preprint = \&quot;\&quot;&quot;,
+            fileConn,
+            append = T)
+      write(&quot;url_code = \&quot;\&quot;&quot;, fileConn, append = T)
+      write(&quot;url_dataset = \&quot;\&quot;&quot;,
+            fileConn,
+            append = T)
+      write(&quot;url_project = \&quot;\&quot;&quot;,
+            fileConn,
+            append = T)
+      write(&quot;url_slides = \&quot;\&quot;&quot;, fileConn, append = T)
+      write(&quot;url_video = \&quot;\&quot;&quot;, fileConn, append = T)
+      write(&quot;url_poster = \&quot;\&quot;&quot;, fileConn, append = T)
+      write(&quot;url_source = \&quot;\&quot;&quot;, fileConn, append = T)
+      #other stuff
+      write(&quot;math = true&quot;, fileConn, append = T)
+      write(&quot;highlight = true&quot;, fileConn, append = T)
+      # Featured image
+      write(&quot;[header]&quot;, fileConn, append = T)
+      write(&quot;image = \&quot;\&quot;&quot;, fileConn, append = T)
+      write(&quot;caption = \&quot;\&quot;&quot;, fileConn, append = T)
+      
+      write(&quot;+++&quot;, fileConn, append = T)
+    }
+  }
+  # apply the &quot;create_md&quot; function over the 
+  # publications list to generate
+  # the different &quot;md&quot; files.
+  
+  apply(
+    mypubs,
+    FUN = function(x)
+      create_md(x),
+    MARGIN = 1
+  )
+  
+  # Added section to output .bib files to get the cite button
+  lapply(
+    1:nrow(mypubs),
+    FUN = function(x) {
+      # define a date and create filename by appending date 
+      # and start of title
+      filename = create_filename(mypubs[x,], &quot;.bib&quot;)
+      bib &lt;- as.BibEntry(mypubs[x,])
+      WriteBib(bib, paste0(&quot;static/files/citations/&quot;, filename))
+    }
+  )
+}
+</code></pre>
+
+<h3 id="final-thoughts-and-extra-resources">Final thoughts and extra resources</h3>
+
+<p>To make tweaks to my site, I mostly just found it useful to have a bit of a look at other sites that have been built with blogdown. Often the source code is discoverable (for example for a <code>&lt;username&gt;.github.io</code> site, the code will be at <code>github.com/&lt;username&gt;/&lt;username&gt;.github.io</code>). There are lots of resources out there about using blogdown to build sites. Here are some examples:</p>
+
+<ul>
+<li><a href="https://bookdown.org/yihui/blogdown/" target="_blank">The blogdown package handbook</a></li>
+<li><a href="https://alison.rbind.io/post/up-and-running-with-blogdown/" target="_blank">Up and running with blogdown, by Alison Presmanes Hill</a>: This guide also provides links to resources on using Git, RStudio and Terminal.</li>
+<li><a href="https://mikeyharper.uk/migrating-to-blogdown/" target="_blank">Mikey Harper explains the why of migrating to blogdown</a></li>
+<li>&hellip;and many more out there.</li>
+</ul>
+
+<p>Happy website building!</p>
+
+    </div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="btn btn-primary btn-outline" href="/tags/blogdown/">blogdown</a>
+  
+</div>
+
+
+
+
+    
+    
+
+    
+
+    
+
+
+  </div>
+</article>
+
+<footer class="site-footer">
+  <div class="container">
+    <p class="powered-by">
+
+      &copy; 2018 &middot; 
+
+      Powered by the
+      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close btn-large" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Cite</h4>
+      </div>
+      <div>
+        <pre><code class="modal-body tex"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-primary btn-outline js-copy-cite" href="#" target="_blank">
+          <i class="fa fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-primary btn-outline js-download-cite" href="#" target="_blank">
+          <i class="fa fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha512-3P8rXCuGJdNZOnUx/03c1jOTnMn3rP63nBip5gOP2qmUh5YAdVAvFZ1E+QLZZbC1rtMrQb+mah3AfYW11RUrWA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+    
+    
+    <script src="/js/hugo-academic.js"></script>
+    
+
+    
+    
+      
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+      
+
+      
+
+      
+
+      <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+
+  </body>
+</html>
+
