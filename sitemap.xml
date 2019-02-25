@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/docs/advancing-your-r/</loc>
+      <lastmod>2018-09-09T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/getting-started/</loc>
       <lastmod>2018-05-27T00:00:00+01:00</lastmod>
     </url>
@@ -160,8 +169,7 @@
     
     <url>
     
-      <loc>/tags/blogdown/</loc>
-      <lastmod>2018-05-27T00:00:00+01:00</lastmod>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -170,7 +178,58 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>/docs/</loc>
+      <lastmod>2018-09-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2017-10-15T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/blogdown/</loc>
+      <lastmod>2018-05-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -209,16 +268,6 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/metapopultation-modelling/</loc>
       <lastmod>2011-10-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -229,38 +278,8 @@
     
     <url>
     
-      <loc>/project/</loc>
-      <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/spatial-ecology/</loc>
       <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
