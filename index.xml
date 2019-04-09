@@ -2,38 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laura Jane Graham on Laura Jane Graham</title>
-    <link>https://laurajanegraham.github.io/</link>
+    <link>/</link>
     <description>Recent content in Laura Jane Graham on Laura Jane Graham</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019</copyright>
-    <lastBuildDate>Mon, 11 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Incorporating fine‐scale environmental heterogeneity into broad‐extent models</title>
+      <link>/publication/2019_mee2/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_mee2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An analytical framework for spatially targeted management of natural capital</title>
-      <link>https://laurajanegraham.github.io/publication/2019_nsust/</link>
+      <link>/publication/2019_nsust/</link>
       <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/publication/2019_nsust/</guid>
+      <guid>/publication/2019_nsust/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial models of carbon, nitrogen and sulphur stable isotope distributions (isoscapes) across a shelf sea: An INLA approach</title>
-      <link>https://laurajanegraham.github.io/publication/2019_mee1/</link>
+      <link>/publication/2019_mee1/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/publication/2019_mee1/</guid>
+      <guid>/publication/2019_mee1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Page</title>
-      <link>https://laurajanegraham.github.io/tutorial/example/</link>
+      <link>/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://laurajanegraham.github.io/tutorial/example/</guid>
+      <guid>/tutorial/example/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -49,11 +58,21 @@
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Building a website with blogdown</title>
-      <link>https://laurajanegraham.github.io/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://laurajanegraham.github.io/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;Having seen a few nice looking websites which use the Hugo academic theme, I thought I&amp;rsquo;d have a go at revamping my website. I&amp;rsquo;m not going to write a whole new post about how to do this - there are plenty of these online. I just thought I&amp;rsquo;d point out some resources that I found useful.&lt;/p&gt;
@@ -282,37 +301,37 @@
     
     <item>
       <title>The incidence function model as a tool for landscape-scale ecological impact assessments</title>
-      <link>https://laurajanegraham.github.io/publication/2018_lup/</link>
+      <link>/publication/2018_lup/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/publication/2018_lup/</guid>
+      <guid>/publication/2018_lup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Future geographic patterns of novel and disappearing assemblages across three dimensions of diversity: A case study with Ecuadorian hummingbirds</title>
-      <link>https://laurajanegraham.github.io/publication/2017_ddi/</link>
+      <link>/publication/2017_ddi/</link>
       <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/publication/2017_ddi/</guid>
+      <guid>/publication/2017_ddi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metapopulation modelling of long-term urban habitat-loss scenarios</title>
-      <link>https://laurajanegraham.github.io/publication/2017_lecol/</link>
+      <link>/publication/2017_lecol/</link>
       <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/publication/2017_lecol/</guid>
+      <guid>/publication/2017_lecol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>https://laurajanegraham.github.io/talk/example/</link>
+      <link>/talk/example/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/talk/example/</guid>
+      <guid>/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
@@ -335,10 +354,10 @@
     
     <item>
       <title>SCALEFORES</title>
-      <link>https://laurajanegraham.github.io/project/scalefores/</link>
+      <link>/project/scalefores/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/project/scalefores/</guid>
+      <guid>/project/scalefores/</guid>
       <description>&lt;p&gt;Land is a limited resource that must fulfil multiple functions. The big question is, how can we meet growing human demand for resources and ensure human well-being, without impairing biodiversity and ecosystem functions?&lt;/p&gt;
 
 &lt;p&gt;Such questions necessitate a landscape ecological approach, on the principle that ecosystem composition, structure and function partially depend on the spatial (and temporal) context of the ecosystem (i.e., its landscape context).&lt;/p&gt;
@@ -353,28 +372,28 @@
     
     <item>
       <title>Strengthening Urban Landscape Planning: a metapopulation modelling framework</title>
-      <link>https://laurajanegraham.github.io/publication/2016_bookchap/</link>
+      <link>/publication/2016_bookchap/</link>
       <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/publication/2016_bookchap/</guid>
+      <guid>/publication/2016_bookchap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using citizen science data for conservation planning: Methods for quality control and downscaling for use in stochastic patch occupancy modelling</title>
-      <link>https://laurajanegraham.github.io/publication/2015_biocons/</link>
+      <link>/publication/2015_biocons/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/publication/2015_biocons/</guid>
+      <guid>/publication/2015_biocons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Climate change impacts on hummingbirds</title>
-      <link>https://laurajanegraham.github.io/project/hummingbirds/</link>
+      <link>/project/hummingbirds/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0100</pubDate>
       
-      <guid>https://laurajanegraham.github.io/project/hummingbirds/</guid>
+      <guid>/project/hummingbirds/</guid>
       <description>&lt;p&gt;Climate change increasingly influences animal populations in both temperate and tropical ecosystems, yet we know little about how the majority of species will respond to these changes. This lack of knowledge limits our ability to predict species responses and manage them in the face of climate change. We are combining time-series data for hummingbirds with climate and remote sensing data to evaluate what changes have occurred in hummingbird populations. We are investigating variation in hummingbird resources and hummingbird physiological responses to different environmental conditions to start to determine why these changes might have occurred. Finally, we will predict how species, phylogenetic and functional diversity might be influenced by climate changes.&lt;/p&gt;
 
 &lt;p&gt;Project PI Catherine Graham, in collaboration with Scott Goetz and Pieter Beck, Susan Wethington, Don Powers and Tim Essington. This project was funded under NASA&amp;rsquo;s Biodiversity Program.&lt;/p&gt;
@@ -383,206 +402,11 @@
     
     <item>
       <title>Where next for macroecology: citizen macroecology?</title>
-      <link>https://laurajanegraham.github.io/publication/2014_frontiers/</link>
+      <link>/publication/2014_frontiers/</link>
       <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/publication/2014_frontiers/</guid>
+      <guid>/publication/2014_frontiers/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Planning urban landscapes for biodiversity</title>
-      <link>https://laurajanegraham.github.io/project/urban-landscapes/</link>
-      <pubDate>Sat, 01 Oct 2011 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurajanegraham.github.io/project/urban-landscapes/</guid>
-      <description>&lt;p&gt;Conserving biodiversity in urban areas has important implications for human well-being, species persistence and future conservation efforts. Biodiversity has a positive impact on human well-being both directly, and through the provision of ecosystem services. Protecting urban biodiversity can have benefits for species conservation at broader scales: urban remnant habitat can provide crucial habitat for native species that are under threat from agricultural intensification in the wider countryside. Habitat loss and fragmentation together pose one of the greatest threats to species persistence. With a large proportion of the population living in urban areas (~80% in the UK) and populations projected to rise, further loss of urban habitat is inevitable. We developed a metapopulation-modelling framework to allow us to understand the landscape-scale effects of urbanisation on species&amp;rsquo; persistence. We applied our framework to both applied and scenario modelling questions.&lt;/p&gt;
-
-&lt;p&gt;This research was funded by an ESRC PhD studentship (award no. 1055165).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>https://laurajanegraham.github.io/slides/example-slides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurajanegraham.github.io/slides/example-slides/</guid>
-      <description>
-
-&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Code block:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-
-&lt;p&gt;Block math:&lt;/p&gt;
-
-&lt;p&gt;$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-  One
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-  &lt;strong&gt;Two&lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-  Three
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/aside&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/img/boards.jpg&#34;
-  &gt;
-
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>

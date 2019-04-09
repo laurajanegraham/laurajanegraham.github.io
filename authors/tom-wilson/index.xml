@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tom Wilson on Laura Jane Graham</title>
-    <link>https://laurajanegraham.github.io/authors/tom-wilson/</link>
+    <link>/authors/tom-wilson/</link>
     <description>Recent content in Tom Wilson on Laura Jane Graham</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019</copyright>
     <lastBuildDate>Mon, 11 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://laurajanegraham.github.io/authors/tom-wilson/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/tom-wilson/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>An analytical framework for spatially targeted management of natural capital</title>
-      <link>https://laurajanegraham.github.io/publication/2019_nsust/</link>
+      <link>/publication/2019_nsust/</link>
       <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/publication/2019_nsust/</guid>
+      <guid>/publication/2019_nsust/</guid>
       <description></description>
     </item>
     

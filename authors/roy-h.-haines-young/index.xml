@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roy H. Haines-Young on Laura Jane Graham</title>
-    <link>https://laurajanegraham.github.io/authors/roy-h.-haines-young/</link>
+    <link>/authors/roy-h.-haines-young/</link>
     <description>Recent content in Roy H. Haines-Young on Laura Jane Graham</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019</copyright>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://laurajanegraham.github.io/authors/roy-h.-haines-young/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/roy-h.-haines-young/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The incidence function model as a tool for landscape-scale ecological impact assessments</title>
-      <link>https://laurajanegraham.github.io/publication/2018_lup/</link>
+      <link>/publication/2018_lup/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/publication/2018_lup/</guid>
+      <guid>/publication/2018_lup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metapopulation modelling of long-term urban habitat-loss scenarios</title>
-      <link>https://laurajanegraham.github.io/publication/2017_lecol/</link>
+      <link>/publication/2017_lecol/</link>
       <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/publication/2017_lecol/</guid>
+      <guid>/publication/2017_lecol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Strengthening Urban Landscape Planning: a metapopulation modelling framework</title>
-      <link>https://laurajanegraham.github.io/publication/2016_bookchap/</link>
+      <link>/publication/2016_bookchap/</link>
       <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/publication/2016_bookchap/</guid>
+      <guid>/publication/2016_bookchap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using citizen science data for conservation planning: Methods for quality control and downscaling for use in stochastic patch occupancy modelling</title>
-      <link>https://laurajanegraham.github.io/publication/2015_biocons/</link>
+      <link>/publication/2015_biocons/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/publication/2015_biocons/</guid>
+      <guid>/publication/2015_biocons/</guid>
       <description></description>
     </item>
     

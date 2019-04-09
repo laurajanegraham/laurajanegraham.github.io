@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>admin on Laura Jane Graham</title>
-    <link>https://laurajanegraham.github.io/authors/admin/</link>
+    <link>/authors/admin/</link>
     <description>Recent content in admin on Laura Jane Graham</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019</copyright>
     
-	<atom:link href="https://laurajanegraham.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://laurajanegraham.github.io/author/admin/</link>
+      <link>/author/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/author/admin/</guid>
+      <guid>/author/admin/</guid>
       <description>I am a computational/spatial ecologist interested in understanding how anthropogenic changes such as climate and land-use change affect global ecosystems, and how this in turn affects human well-being. I am particularly interested in using novel statistical methods and heterogeneous sources of data to answer applied and theoretical questions. I was previously a mathematician and database developer, and apply skills learned there to answer ecological questions. My PhD research focussed on applying metapopulation models to urban planning problems; particularly in the context of the ecological impact assessment.</description>
     </item>
     

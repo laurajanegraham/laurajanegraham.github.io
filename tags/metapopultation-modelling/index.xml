@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>metapopultation-modelling on Laura Jane Graham</title>
-    <link>https://laurajanegraham.github.io/tags/metapopultation-modelling/</link>
+    <link>/tags/metapopultation-modelling/</link>
     <description>Recent content in metapopultation-modelling on Laura Jane Graham</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019</copyright>
     <lastBuildDate>Sat, 01 Oct 2011 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://laurajanegraham.github.io/tags/metapopultation-modelling/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/metapopultation-modelling/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Planning urban landscapes for biodiversity</title>
-      <link>https://laurajanegraham.github.io/project/urban-landscapes/</link>
+      <link>/project/urban-landscapes/</link>
       <pubDate>Sat, 01 Oct 2011 00:00:00 +0100</pubDate>
       
-      <guid>https://laurajanegraham.github.io/project/urban-landscapes/</guid>
+      <guid>/project/urban-landscapes/</guid>
       <description>Conserving biodiversity in urban areas has important implications for human well-being, species persistence and future conservation efforts. Biodiversity has a positive impact on human well-being both directly, and through the provision of ecosystem services. Protecting urban biodiversity can have benefits for species conservation at broader scales: urban remnant habitat can provide crucial habitat for native species that are under threat from agricultural intensification in the wider countryside. Habitat loss and fragmentation together pose one of the greatest threats to species persistence.</description>
     </item>
     

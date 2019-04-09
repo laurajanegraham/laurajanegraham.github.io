@@ -1,0 +1,547 @@
+---
+title: "Laura Jane Graham CV"
+author: Laura Graham
+date: "`r Sys.Date()`"
+output: pagedown::html_resume
+---
+
+Aside
+================================================================================
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> laurajaneegraham@gmail.com
+- <i class="fa fa-github"></i> [github.com/laurajanegraham](https://github.com/laurajanegraham)
+- <i class="fa fa-phone"></i> +44 741 0411 583
+- <i class="fa fa-map-marker-alt"></i> Geography and Environment 
+- <i class="fa none"></i> University of Southampton,
+- <i class="fa none"></i> Highfield Campus,
+- <i class="fa none"></i> Southampton,
+- <i class="fa none"></i> SO17 1BJ, UK
+
+
+References {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-user"></i> Prof. Felix Eigenbrod
+- <i class="fa none"></i> Geography and Environment 
+- <i class="fa none"></i> University of Southampton,
+- <i class="fa none"></i> Highfield Campus,
+- <i class="fa none"></i> Southampton,
+- <i class="fa none"></i> SO17 1BJ, UK
+- <i class="fa none"></i> f.eigenbrod@soton.ac.uk
+
+- <i class="fa fa-user"></i> Prof. Catherine Graham
+- <i class="fa none"></i> Eidg. Forschungsanstalt WSL
+- <i class="fa none"></i> Zürcherstrasse 111
+- <i class="fa none"></i> 8903 Birmensdorf
+- <i class="fa none"></i> catherine.graham@wsl.ch
+
+- <i class="fa fa-user"></i> Dr. Richard Field
+- <i class="fa none"></i> School of Geography
+- <i class="fa none"></i> University of Nottingham
+- <i class="fa none"></i> University Park
+- <i class="fa none"></i> Nottingham
+- <i class="fa none"></i> NG7 2RD
+- <i class="fa none"></i> richard.field@nottingham.ac.uk
+
+
+Main
+================================================================================
+
+Laura Jane Graham {#title}
+--------------------------------------------------------------------------------
+
+I am a computational/spatial ecologist interested in understanding how anthropogenic changes such as climate and land-use change affect global ecosystems, and how this in turn affects human well-being. I am particularly interested in using novel statistical methods and heterogeneous sources of data to answer applied and theoretical questions. I was previously a mathematician and database developer, and apply skills learned there to answer ecological questions. 
+
+My PhD research focussed on applying metapopulation models to urban planning problems; particularly in the context of the ecological impact assessment. I then worked as a Postdoctoral Research Associate at Stony Brook University NY, where I was modelling impacts of environmental change on hummingbird distributions and movements. 
+
+I am currently a Postdoctoral Research Fellow in Spatial Modelling at University of Southampton. My current research is focussed on finding general scaling rules for ecosystem service mapping to understand how land use and policy changes may affect the provision of ecosystem services.
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Research Fellow in Spatial Modelling
+
+University of Southampton
+
+Southampton, UK
+
+2016 - Present
+
+Working on the ERC funded project *‘SCALEFORES: Developing a science of
+scale for ecosystem services’*
+
+PI: Felix Eigenbrod
+
+### Postdoctoral Research Associate
+
+Stony Brook University
+
+New York, USA
+
+2015 - 2016
+
+Working on the NASA funded project *'Combining time-series data, ecology and
+physiology to predict the consequences of climate change on hummingbird
+diversity'*
+
+PI: Catherine Graham
+
+### Research Assistant
+
+EU OpenNESS Project
+
+Nottingham, UK
+
+2014
+
+Literature reviews of the connections between natural capital/ecosystem
+services and macroeconomic competitiveness, and of the state of the field of
+adaptive management.
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Data Analyst
+
+Experian Ltd.
+
+Nottingham, UK
+
+2007 - 2010
+
+Data analysis, processing and statistical analysis for development and
+maintenance of core Business Strategies databases and products. I combined
+socio-demographic and locational data with retail data into reports and analyses
+to enable my clients to make business decisions.
+
+
+Teaching & Supervision {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Nathan Fox, SPITFIRE PhD
+
+University of Southampton
+
+Southampton, UK
+
+2017 - Present
+
+Thesis title: The applications for geodiversity as a proxy measure of other environmental variables.
+
+Primary Supervisor: Kate Parks. CASE funding: James Bullock, Centre for Ecology and Hydrology
+
+### Statistics and Programming
+
+University of Southampton
+
+Southampton, UK
+
+2017 - Present
+
+I have developed and delivered statistics and programming materials for the
+following courses:
+
+- Skills and Project work for GIS MSc
+- Data Collection and Research Methods for Sustainability MSc
+- Programming for GIS and Spatial Analyses MSc
+- Spatial analysis workshop for ADVENT students PhD
+
+I also provided informal support for masters dissertation projects.
+
+### Laura Gambino, MA Ecology
+
+Stony Brook University
+
+New York, USA
+
+2016 - 2017
+
+Thesis title: North American hummingbird species distribution and richness in relation to the phenology of plant resources.
+
+Primary Supervisor: Catherine Graham
+
+### Software Carpentry Instructor
+
+Teaching coding skills to scientists.
+
+N/A
+
+2015 - Present
+
+I have run workshops at the New York Academy of Sciences and assisted a workshop at Stony Brook University.
+
+### Gillian Benson, MSc Environmental Management
+
+University of Nottingham
+
+Nottingham, UK
+
+2015
+
+Thesis title: Testing downscaling methods for woodland bird species.
+
+Primary Supervisor: Richard Field
+
+### Teaching Assistant
+
+University of Nottingham
+
+Nottingham, UK
+
+2011 - 2014
+
+I have provided teaching support for the following modules:
+
+- *Interpreting Geographical Data* First year undergraduate statistics
+- *Digital Explorers* Second year undergraduate GIS
+- *Geographical Research Methods* Masters level statistics
+- *Professional GIS* Masters level GIS
+- *Lake District Field Trip* First year undergraduate field course. I developed and delivered a one day activity for this module
+- *Tutorial Groups* First year undergraduate tutorial groups on biodiversity and ecosystem services
+
+I also provided informal support for undergraduate and masters dissertation projects.
+
+### Online Facilitator
+
+FutureLearn
+
+N/A
+
+2013 - 2014
+
+I provided facilitation support for massive online open courses:
+
+- Sustainability, Society and You 
+- Shale Gas and Fracking: the politics and science.
+
+
+Education {data-icon=graduation-cap}
+--------------------------------------------------------------------------------
+
+### PhD Geography
+
+University of Nottingham
+
+Nottingham, UK
+
+2011 - 2015
+
+Thesis title: Strengthening urban landscape planning: a metapopulation
+modelling framework
+
+**Funded by the Economic and Social Research Council**
+
+The central argument of my PhD research was that ecological impact
+assessment needs to be done at a landscape scale. To this end, I examined
+how metapopulation modelling can be used to perform such an assessment and
+used my methods to compare urban planning scenarios. This research required
+me to work at the science–policy interface.
+
+Supervisors: Prof. Roy Haines-Young & Dr. Richard Field
+
+Examiners: Prof. Jon Sadler, Dr. Adam Algar
+
+### MSc Environmental Management
+
+University of Nottingham
+
+Nottingham, UK
+
+2010 - 2011
+
+Distinction
+
+Thesis title: An Assessment of the suitability of the Incidence Function Model for
+use in planning and assessing Environmental Stewardship Schemes
+
+Modules included Ecosystem Services & Human Well-being, Foundations in
+Environmental Management, Frameworks for Environmental Management,
+Research Methods, Fundamentals of GIS, Geocomputation.
+
+### BSc Mathematics
+
+University of Southampton
+
+Southampton, UK
+
+2002 - 2005
+
+First Class Honours
+
+Modules taken focussed on pure mathematics and statistics. 
+
+
+Grants Obtained {data-icon=trophy}
+--------------------------------------------------------------------------------
+
+### ESRC PhD Studentship
+
+How Effective Are Environmental Stewardship Schemes with Regards to Wildlife Conservation?
+
+N/A
+
+2011
+
+£54,216 for fees, maintenance and research training grant
+
+Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### An analytical framework for spatially targeted management of natural capital
+
+Nature Sustainability, 2, 90–97. https://doi.org/10.1038/s41893-019-0223-4
+
+N/A
+
+2019
+
+Spake R, Bellamy C, **Graham LJ**, Watts K, Wilson T, Norton L, Wood C, Schmucki R, Bullock JM, Eigenbrod F
+
+### Spatial models of carbon, nitrogen, and sulfur stable isotope distributions (isoscapes) across a shelf sea: an INLA approach
+
+Methods in Ecology and Evolution, 0, 1-14. https://doi.org/10.1111/2041-210X.13138
+
+N/A
+
+2019
+
+St John Glew K, **Graham LJ**, MgGill RAR, Trueman, CN
+
+### The incidence function model as a tool for landscape-scale ecological impact assessments
+
+Landscape and Urban Planning, 170, 187–194. https://doi.org/10.1016/j.landurbplan.2017.10.008
+
+N/A
+
+2018 
+
+**Graham LJ**, Haines-Young RH, Field R 
+
+### Future geographic patterns of novel and disappearing assemblages across three dimensions of diversity: A case study with Ecuadorian hummingbirds
+
+Diversity and Distributions, 23, 944–954. [https://doi.org/10.1111/ddi.12587](https://doi.org/10.1111/ddi.12587)
+
+N/A
+
+2017
+
+**Graham LJ**, Weinstein BG, Supp SR, Graham CH
+
+### Metapopulation modelling of long-term urban habitat-loss scenarios
+
+Landscape Ecology, 32, 989–1003. [https://doi.org/10.1007/s10980-017-0504-0](https://doi.org/10.1007/s10980-017-0504-0)
+
+N/A
+
+2017
+
+**Graham LJ**, Haines-Young RH, Field R
+
+### Strengthening urban landscape planning: a metapopulation modelling framework
+
+In Urban Landscape Ecology: Science, Policy and Practice. Routledge.
+
+N/A
+
+2016
+
+**Graham LJ**, Haines-Young RH, Field R
+
+### Using citizen science data for conservation planning: methods for quality control and downscaling for use in stochastic patch occupancy modelling
+
+Biological Conservation, 192, 65–73. [https://doi.org/10.1016/j.biocon.2015.09.002](https://doi.org/10.1016/j.biocon.2015.09.002)
+
+N/A
+
+2015
+
+**Graham LJ**, Haines-Young RH, Field R
+
+### Where next for macroecology: citizen macroecology?
+
+Frontiers of Biogeography. 6(1).
+
+N/A
+
+2014
+
+**Graham LJ**, Bailey JJ, Algar AC, Field R
+
+
+Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+
+### Scale-dependency in drivers of outdoor recreation
+
+British Ecological Society Annual Meeting (invited talk)
+
+Birmingham, UK
+
+2018
+
+### A spatial modelling framework for predicting the effects of landscape structure on ecosystem services
+
+Ecological Society of America Annual Meeting (invited talk)
+
+Portland, Oregon, USA
+
+2017
+
+### Taxonomic, phylogenetic and functional dimensions of no-analog assemblages
+
+British Ecological Society Annual Meeting
+
+Liverpool, UK
+
+2016
+
+### How to do Reproducible Research in R
+
+British Ecological Society Annual Meeting (invited workshop)
+
+Liverpool, UK
+
+2016
+
+### Taxonomic, phylogenetic and functional dimensions of no-analog assemblages
+
+Centre for Ecology and Hydrology (invited seminar)
+
+Oxford, UK
+
+2016
+
+### How to do Reproducible Research in R
+
+British Ecological Society Macroecology Meeting (invited panel discussion)
+
+Oxford, UK
+
+2016
+
+### Metapopulation modelling of long-term urban habitat-loss scenarios
+
+European Ecosystem Services Conference
+
+Antwerp, Belguim
+
+2016
+
+### Quantitative landscape-scale ecological impact assessment: a method using the incidence function model
+
+EU Macro
+
+Copenhagen, Denmark
+
+2015
+
+### Metapopulation modelling of long-term urban habitat-loss scenarios
+
+Joint Annual Meeting BES and SFE
+
+Lille, France
+ 
+2014 
+
+### Quantitative landscape-scale ecological impact assessment: a method using the incidence function model
+
+IALE UK Annual Conference
+
+London, UK
+
+2014
+
+### Hanski's incidence function model for urban biodiversity planning
+
+INTECOL Annual Meeting
+
+London, UK
+
+2013
+
+Workshops {data-icon=user-edit}
+--------------------------------------------------------------------------------
+
+### UN-FAO SES Expert Workshop
+
+Applying social-ecological system frameworks to improve sustainable land-use and enhance resilient agro-food systems under water scarcity
+
+Rome, Italy
+
+2018
+
+### sLandserv: Linking Landscape Structure to Ecosystem Services
+
+sDiv Synthesis Centre for Biodiversity Sciences
+
+Leipzig, Germany
+
+2017 - 2018
+
+Academic Service
+--------------------------------------------------------------------------------
+
+### Applications Associate Editor 
+
+Methods in Ecology and Evolution
+
+N/A
+
+2019 - Present
+
+### Associate Editor
+
+People and Nature
+
+N/A
+
+2018 - Present
+
+### Publications Committee Member
+
+British Ecological Society 
+
+N/A
+
+2018 - Present
+
+### British Ecological Society Quantitative Ecology Special Interest Group
+
+Secretary (since 2018) & Blogmaster (2015 - 2018)
+
+N/A
+
+2015 - Present
+
+### Peer Review
+
+N/A
+
+N/A
+
+2014 - Present
+
+::: concise
+- Biological Conservation
+- Diversity and Distributions
+- Ecography
+- Ecological Informatics
+- Functional Ecology
+- Global Change Biology
+- Global Ecology and Biogeography 
+- Journal of Animal Ecology 
+- Journal of Biogeography
+- Landscape Ecology
+- Methods in Ecology and Evolution
+- Oikos 
+- PeerJ
+- Plos One
+- Sustainability
+- Wilson Journal of Ornithology
+:::
+
+I am also a member of the British Ecological Society Review College
+

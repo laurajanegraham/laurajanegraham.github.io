@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Laura Jane Graham</title>
-    <link>https://laurajanegraham.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Laura Jane Graham</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019</copyright>
     
-	<atom:link href="https://laurajanegraham.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>blogdown</title>
-      <link>https://laurajanegraham.github.io/tags/blogdown/</link>
+      <link>/tags/blogdown/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://laurajanegraham.github.io/tags/blogdown/</guid>
+      <guid>/tags/blogdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>climate-change</title>
-      <link>https://laurajanegraham.github.io/tags/climate-change/</link>
+      <link>/tags/climate-change/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0100</pubDate>
       
-      <guid>https://laurajanegraham.github.io/tags/climate-change/</guid>
+      <guid>/tags/climate-change/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ecosystem-services</title>
-      <link>https://laurajanegraham.github.io/tags/ecosystem-services/</link>
+      <link>/tags/ecosystem-services/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/tags/ecosystem-services/</guid>
+      <guid>/tags/ecosystem-services/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hummingbirds</title>
-      <link>https://laurajanegraham.github.io/tags/hummingbirds/</link>
+      <link>/tags/hummingbirds/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0100</pubDate>
       
-      <guid>https://laurajanegraham.github.io/tags/hummingbirds/</guid>
+      <guid>/tags/hummingbirds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>metapopultation-modelling</title>
-      <link>https://laurajanegraham.github.io/tags/metapopultation-modelling/</link>
+      <link>/tags/metapopultation-modelling/</link>
       <pubDate>Sat, 01 Oct 2011 00:00:00 +0100</pubDate>
       
-      <guid>https://laurajanegraham.github.io/tags/metapopultation-modelling/</guid>
+      <guid>/tags/metapopultation-modelling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>spatial-ecology</title>
-      <link>https://laurajanegraham.github.io/tags/spatial-ecology/</link>
+      <link>/tags/spatial-ecology/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/tags/spatial-ecology/</guid>
+      <guid>/tags/spatial-ecology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>urban-ecology</title>
-      <link>https://laurajanegraham.github.io/tags/urban-ecology/</link>
+      <link>/tags/urban-ecology/</link>
       <pubDate>Sat, 01 Oct 2011 00:00:00 +0100</pubDate>
       
-      <guid>https://laurajanegraham.github.io/tags/urban-ecology/</guid>
+      <guid>/tags/urban-ecology/</guid>
       <description></description>
     </item>
     

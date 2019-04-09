@@ -4,7 +4,15 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/publication/2019_nsust/</loc>
+      <loc>/publication/2019_mee2/</loc>
+      <lastmod>2019-04-08T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2019_nsust/</loc>
       <lastmod>2019-02-11T00:00:00+00:00</lastmod>
     </url>
     
@@ -12,7 +20,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/publication/2019_mee1/</loc>
+      <loc>/publication/2019_mee1/</loc>
       <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     </url>
     
@@ -20,7 +28,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/tutorial/example/</loc>
+      <loc>/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00+01:00</lastmod>
     </url>
     
@@ -28,7 +36,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/tutorial/</loc>
+      <loc>/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00+01:00</lastmod>
     </url>
     
@@ -36,7 +44,15 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/post/getting-started/</loc>
+      <loc>/privacy/</loc>
+      <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/getting-started/</loc>
       <lastmod>2018-05-27T00:00:00+01:00</lastmod>
     </url>
     
@@ -44,7 +60,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/publication/2018_lup/</loc>
+      <loc>/publication/2018_lup/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -52,7 +68,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/publication/2017_ddi/</loc>
+      <loc>/publication/2017_ddi/</loc>
       <lastmod>2017-06-15T00:00:00+00:00</lastmod>
     </url>
     
@@ -60,7 +76,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/publication/2017_lecol/</loc>
+      <loc>/publication/2017_lecol/</loc>
       <lastmod>2017-03-25T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +84,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/talk/example/</loc>
+      <loc>/talk/example/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -76,7 +92,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/project/scalefores/</loc>
+      <loc>/project/scalefores/</loc>
       <lastmod>2016-11-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -84,7 +100,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/publication/2016_bookchap/</loc>
+      <loc>/publication/2016_bookchap/</loc>
       <lastmod>2016-04-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -92,7 +108,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/publication/2015_biocons/</loc>
+      <loc>/publication/2015_biocons/</loc>
       <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -100,7 +116,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/project/hummingbirds/</loc>
+      <loc>/project/hummingbirds/</loc>
       <lastmod>2015-04-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -108,7 +124,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/publication/2014_frontiers/</loc>
+      <loc>/publication/2014_frontiers/</loc>
       <lastmod>2014-03-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -116,7 +132,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/project/urban-landscapes/</loc>
+      <loc>/project/urban-landscapes/</loc>
       <lastmod>2011-10-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -124,15 +140,15 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/author/admin/</loc>
+      <loc>/author/admin/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/publication_types/2/</loc>
-      <lastmod>2019-02-11T00:00:00+00:00</lastmod>
+      <loc>/publication_types/2/</loc>
+      <lastmod>2019-04-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -140,7 +156,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/publication_types/6/</loc>
+      <loc>/publication_types/6/</loc>
       <lastmod>2016-04-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -149,7 +165,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/authors/adam-c.-algar/</loc>
+      <loc>/authors/adam-c.-algar/</loc>
       <lastmod>2014-03-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -158,7 +174,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/author/</loc>
+      <loc>/author/</loc>
       <priority>0</priority>
     </url>
     
@@ -166,7 +182,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/authors/</loc>
+      <loc>/authors/</loc>
       <lastmod>2014-03-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -175,7 +191,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/authors/ben-g.-weinstein/</loc>
+      <loc>/authors/ben-g.-weinstein/</loc>
       <lastmod>2017-06-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -184,7 +200,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/categories/</loc>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -192,7 +208,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/authors/catherine-h.-graham/</loc>
+      <loc>/authors/catherine-h.-graham/</loc>
       <lastmod>2017-06-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -201,7 +217,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/authors/chloe-bellamy/</loc>
+      <loc>/authors/chloe-bellamy/</loc>
       <lastmod>2019-02-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -210,7 +226,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/authors/claire-m.-wood/</loc>
+      <loc>/authors/claire-m.-wood/</loc>
       <lastmod>2019-02-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -219,7 +235,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/authors/clive-n.-trueman/</loc>
+      <loc>/authors/clive-n.-trueman/</loc>
       <lastmod>2019-01-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -228,7 +244,16 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/authors/felix-eigenbrod/</loc>
+      <loc>/authors/felix-eigenbrod/</loc>
+      <lastmod>2019-04-08T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/james-m.-bullock/</loc>
       <lastmod>2019-02-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -237,16 +262,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/authors/james-m.-bullock/</loc>
-      <lastmod>2019-02-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://laurajanegraham.github.io/authors/joseph-j.-bailey/</loc>
+      <loc>/authors/joseph-j.-bailey/</loc>
       <lastmod>2014-03-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -255,7 +271,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/authors/katie-st-john-glew/</loc>
+      <loc>/authors/katie-st-john-glew/</loc>
       <lastmod>2019-01-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -264,7 +280,34 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/authors/kevin-watts/</loc>
+      <loc>/authors/kevin-watts/</loc>
+      <lastmod>2019-04-08T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/laura-j.-graham/</loc>
+      <lastmod>2019-04-08T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2019-04-08T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/lisa-r.-norton/</loc>
       <lastmod>2019-02-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -273,34 +316,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/authors/laura-j.-graham/</loc>
-      <lastmod>2019-02-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://laurajanegraham.github.io/</loc>
-      <lastmod>2019-02-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://laurajanegraham.github.io/authors/lisa-r.-norton/</loc>
-      <lastmod>2019-02-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://laurajanegraham.github.io/post/</loc>
+      <loc>/post/</loc>
       <lastmod>2018-05-27T00:00:00+01:00</lastmod>
     </url>
     
@@ -308,7 +324,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/project/</loc>
+      <loc>/project/</loc>
       <lastmod>2016-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -317,8 +333,8 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/publication_types/</loc>
-      <lastmod>2019-02-11T00:00:00+00:00</lastmod>
+      <loc>/publication_types/</loc>
+      <lastmod>2019-04-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -326,16 +342,16 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/publication/</loc>
-      <lastmod>2019-02-11T00:00:00+00:00</lastmod>
+      <loc>/publication/</loc>
+      <lastmod>2019-04-08T00:00:00+00:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/authors/rebecca-spake/</loc>
-      <lastmod>2019-02-11T00:00:00+00:00</lastmod>
+      <loc>/authors/rebecca-spake/</loc>
+      <lastmod>2019-04-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -343,7 +359,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/talk/</loc>
+      <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -351,7 +367,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/authors/reto-schmucki/</loc>
+      <loc>/authors/reto-schmucki/</loc>
       <lastmod>2019-02-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -360,7 +376,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/authors/richard-field/</loc>
+      <loc>/authors/richard-field/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -369,7 +385,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/authors/rona-a.r.-mcgill/</loc>
+      <loc>/authors/rona-a.r.-mcgill/</loc>
       <lastmod>2019-01-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -378,7 +394,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/authors/roy-h.-haines-young/</loc>
+      <loc>/authors/roy-h.-haines-young/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -387,7 +403,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/authors/sarah-r.-supp/</loc>
+      <loc>/authors/sarah-r.-supp/</loc>
       <lastmod>2017-06-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -396,7 +412,8 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/slides/</loc>
+      <loc>/authors/simon-gillings/</loc>
+      <lastmod>2019-04-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -404,14 +421,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/slides/example-slides/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://laurajanegraham.github.io/tags/</loc>
+      <loc>/slides/</loc>
       <priority>0</priority>
     </url>
     
@@ -419,7 +429,22 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/authors/tom-wilson/</loc>
+      <loc>/slides/example-slides/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/tom-wilson/</loc>
       <lastmod>2019-02-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -428,7 +453,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/authors/admin/</loc>
+      <loc>/authors/admin/</loc>
       <priority>0</priority>
     </url>
     
@@ -436,7 +461,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/tags/blogdown/</loc>
+      <loc>/tags/blogdown/</loc>
       <lastmod>2018-05-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -445,7 +470,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/tags/climate-change/</loc>
+      <loc>/tags/climate-change/</loc>
       <lastmod>2015-04-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -454,7 +479,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/tags/ecosystem-services/</loc>
+      <loc>/tags/ecosystem-services/</loc>
       <lastmod>2016-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -463,7 +488,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/tags/hummingbirds/</loc>
+      <loc>/tags/hummingbirds/</loc>
       <lastmod>2015-04-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -472,7 +497,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/tags/metapopultation-modelling/</loc>
+      <loc>/tags/metapopultation-modelling/</loc>
       <lastmod>2011-10-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -481,7 +506,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/tags/spatial-ecology/</loc>
+      <loc>/tags/spatial-ecology/</loc>
       <lastmod>2016-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -490,7 +515,7 @@
     
     <url>
     
-      <loc>https://laurajanegraham.github.io/tags/urban-ecology/</loc>
+      <loc>/tags/urban-ecology/</loc>
       <lastmod>2011-10-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
