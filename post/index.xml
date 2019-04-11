@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Laura Jane Graham</title>
-    <link>/post/</link>
+    <link>https://laurajanegraham.github.io/post/</link>
     <description>Recent content in Posts on Laura Jane Graham</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019</copyright>
     <lastBuildDate>Sun, 27 May 2018 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://laurajanegraham.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Building a website with blogdown</title>
-      <link>/post/getting-started/</link>
+      <link>https://laurajanegraham.github.io/post/getting-started/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 +0100</pubDate>
       
-      <guid>/post/getting-started/</guid>
+      <guid>https://laurajanegraham.github.io/post/getting-started/</guid>
       <description>Having seen a few nice looking websites which use the Hugo academic theme, I thought I&amp;rsquo;d have a go at revamping my website. I&amp;rsquo;m not going to write a whole new post about how to do this - there are plenty of these online. I just thought I&amp;rsquo;d point out some resources that I found useful.
 I mainly worked from Alistair Bailey&amp;rsquo;s really detailed guide to building a website using blogdown in R.</description>
     </item>

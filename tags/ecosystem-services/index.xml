@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ecosystem-services on Laura Jane Graham</title>
-    <link>/tags/ecosystem-services/</link>
+    <link>https://laurajanegraham.github.io/tags/ecosystem-services/</link>
     <description>Recent content in ecosystem-services on Laura Jane Graham</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019</copyright>
     <lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/ecosystem-services/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://laurajanegraham.github.io/tags/ecosystem-services/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SCALEFORES</title>
-      <link>/project/scalefores/</link>
+      <link>https://laurajanegraham.github.io/project/scalefores/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/scalefores/</guid>
+      <guid>https://laurajanegraham.github.io/project/scalefores/</guid>
       <description>Land is a limited resource that must fulfil multiple functions. The big question is, how can we meet growing human demand for resources and ensure human well-being, without impairing biodiversity and ecosystem functions?
 Such questions necessitate a landscape ecological approach, on the principle that ecosystem composition, structure and function partially depend on the spatial (and temporal) context of the ecosystem (i.e., its landscape context).
 In our research we adopt a landscape ecological approach to study a wide range of ecosystem services.</description>
