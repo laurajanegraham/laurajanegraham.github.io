@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019</copyright>
-    <lastBuildDate>Fri, 17 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Scale-dependency in drivers of outdoor recreation in England</title>
+      <link>https://laurajanegraham.github.io/publication/2019_pan/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurajanegraham.github.io/publication/2019_pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ignoring the spatial structure of the sea cucumber Isostichopus fuscus distribution when granting quotas can be costly</title>
+      <link>https://laurajanegraham.github.io/publication/2019_ocma/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurajanegraham.github.io/publication/2019_ocma/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mapping access to domestic water supplies from incomplete data in developing countries: An illustrative assessment for Kenya</title>
@@ -385,27 +403,6 @@
       
       <guid>https://laurajanegraham.github.io/publication/2016_bookchap/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Using citizen science data for conservation planning: Methods for quality control and downscaling for use in stochastic patch occupancy modelling</title>
-      <link>https://laurajanegraham.github.io/publication/2015_biocons/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurajanegraham.github.io/publication/2015_biocons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Climate change impacts on hummingbirds</title>
-      <link>https://laurajanegraham.github.io/project/hummingbirds/</link>
-      <pubDate>Wed, 01 Apr 2015 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurajanegraham.github.io/project/hummingbirds/</guid>
-      <description>&lt;p&gt;Climate change increasingly influences animal populations in both temperate and tropical ecosystems, yet we know little about how the majority of species will respond to these changes. This lack of knowledge limits our ability to predict species responses and manage them in the face of climate change. We are combining time-series data for hummingbirds with climate and remote sensing data to evaluate what changes have occurred in hummingbird populations. We are investigating variation in hummingbird resources and hummingbird physiological responses to different environmental conditions to start to determine why these changes might have occurred. Finally, we will predict how species, phylogenetic and functional diversity might be influenced by climate changes.&lt;/p&gt;
-
-&lt;p&gt;Project PI Catherine Graham, in collaboration with Scott Goetz and Pieter Beck, Susan Wethington, Don Powers and Tim Essington. This project was funded under NASA&amp;rsquo;s Biodiversity Program.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
