@@ -21,7 +21,7 @@
     <url>
     
       <loc>https://laurajanegraham.github.io/publication/2019_plosone/</loc>
-      <lastmod>2019-05-17T00:00:00+00:00</lastmod>
+      <lastmod>2019-05-17T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -323,7 +323,7 @@
     <url>
     
       <loc>https://laurajanegraham.github.io/authors/jim-a.-wright/</loc>
-      <lastmod>2019-05-17T00:00:00+00:00</lastmod>
+      <lastmod>2019-05-17T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -403,8 +403,17 @@
     
     <url>
     
+      <loc>https://laurajanegraham.github.io/tags/maxent/</loc>
+      <lastmod>2019-05-17T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://laurajanegraham.github.io/authors/nicola-a.-wardrop/</loc>
-      <lastmod>2019-05-17T00:00:00+00:00</lastmod>
+      <lastmod>2019-05-17T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -491,7 +500,7 @@
     <url>
     
       <loc>https://laurajanegraham.github.io/authors/robert-e.-s.-bain/</loc>
-      <lastmod>2019-05-17T00:00:00+00:00</lastmod>
+      <lastmod>2019-05-17T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -578,7 +587,7 @@
     <url>
     
       <loc>https://laurajanegraham.github.io/authors/victor-alegana/</loc>
-      <lastmod>2019-05-17T00:00:00+00:00</lastmod>
+      <lastmod>2019-05-17T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -587,7 +596,7 @@
     <url>
     
       <loc>https://laurajanegraham.github.io/authors/weiyu-yu/</loc>
-      <lastmod>2019-05-17T00:00:00+00:00</lastmod>
+      <lastmod>2019-05-17T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -731,6 +740,15 @@
     
       <loc>https://laurajanegraham.github.io/tags/urban-ecology/</loc>
       <lastmod>2011-10-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laurajanegraham.github.io/tags/water-security/</loc>
+      <lastmod>2019-05-17T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
