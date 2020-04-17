@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>climate-change on Laura Jane Graham</title>
-    <link>https://laurajanegraham.github.io/tags/climate-change/</link>
+    <link>/tags/climate-change/</link>
     <description>Recent content in climate-change on Laura Jane Graham</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019</copyright>
     <lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://laurajanegraham.github.io/tags/climate-change/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/climate-change/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Climate change impacts on hummingbirds</title>
-      <link>https://laurajanegraham.github.io/project/hummingbirds/</link>
+      <link>/project/hummingbirds/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0100</pubDate>
       
-      <guid>https://laurajanegraham.github.io/project/hummingbirds/</guid>
-      <description>Climate change increasingly influences animal populations in both temperate and tropical ecosystems, yet we know little about how the majority of species will respond to these changes. This lack of knowledge limits our ability to predict species responses and manage them in the face of climate change. We are combining time-series data for hummingbirds with climate and remote sensing data to evaluate what changes have occurred in hummingbird populations. We are investigating variation in hummingbird resources and hummingbird physiological responses to different environmental conditions to start to determine why these changes might have occurred.</description>
+      <guid>/project/hummingbirds/</guid>
+      <description>Combining time-series data, ecology and physiology to predict the consequences of climate change on hummingbird diversity</description>
     </item>
     
   </channel>

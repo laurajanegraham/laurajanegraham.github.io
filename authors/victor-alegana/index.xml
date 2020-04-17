@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Victor Alegana on Laura Jane Graham</title>
-    <link>https://laurajanegraham.github.io/authors/victor-alegana/</link>
+    <link>/authors/victor-alegana/</link>
     <description>Recent content in Victor Alegana on Laura Jane Graham</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019</copyright>
     <lastBuildDate>Fri, 17 May 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://laurajanegraham.github.io/authors/victor-alegana/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/victor-alegana/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mapping access to domestic water supplies from incomplete data in developing countries: An illustrative assessment for Kenya</title>
-      <link>https://laurajanegraham.github.io/publication/2019_plosone/</link>
+      <link>/publication/2019_plosone/</link>
       <pubDate>Fri, 17 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://laurajanegraham.github.io/publication/2019_plosone/</guid>
-      <description></description>
+      <guid>/publication/2019_plosone/</guid>
+      <description>Using species&amp;rsquo; distribution modelling methods to map access to water sources.</description>
     </item>
     
   </channel>

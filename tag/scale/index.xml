@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scale | Laura Jane Graham</title>
+    <link>https://laurajanegraham.github.io/tag/scale/</link>
+      <atom:link href="https://laurajanegraham.github.io/tag/scale/index.xml" rel="self" type="application/rss+xml" />
+    <description>scale</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://laurajanegraham.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>scale</title>
+      <link>https://laurajanegraham.github.io/tag/scale/</link>
+    </image>
+    
+    <item>
+      <title>Scale-dependency in drivers of outdoor recreation in England</title>
+      <link>https://laurajanegraham.github.io/publication/2019_pan/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://laurajanegraham.github.io/publication/2019_pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating fine‐scale environmental heterogeneity into broad‐extent models</title>
+      <link>https://laurajanegraham.github.io/publication/2019_mee2/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://laurajanegraham.github.io/publication/2019_mee2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sea cucumber on Laura Jane Graham</title>
-    <link>https://laurajanegraham.github.io/tags/sea-cucumber/</link>
+    <link>/tags/sea-cucumber/</link>
     <description>Recent content in sea cucumber on Laura Jane Graham</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019</copyright>
     <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://laurajanegraham.github.io/tags/sea-cucumber/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/sea-cucumber/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ignoring the spatial structure of the sea cucumber Isostichopus fuscus distribution when granting quotas can be costly</title>
-      <link>https://laurajanegraham.github.io/publication/2019_ocma/</link>
+      <link>/publication/2019_ocma/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/publication/2019_ocma/</guid>
-      <description></description>
+      <guid>/publication/2019_ocma/</guid>
+      <description>There is an increasing demand for fisheries resources worldwide. The brown sea cucumber &lt;em&gt;Isostichopus fuscus&lt;/em&gt; is the most valuable species from the Eastern Pacific and it has been almost depleted due to overfishing. Here, we show that it is important to consider the spatial structure of &lt;em&gt;Isostichopus fuscus&lt;/em&gt; populations when granting quotas. Given the high levels of illegal fishing within the Gulf of California, it is imperative that quotas are based on the lower bounds of spatially explicit density estimates – along with increased surveillance and enforcement – if the long-term commercial sustainability of the fishery is to be maintained.</description>
     </item>
     
   </channel>

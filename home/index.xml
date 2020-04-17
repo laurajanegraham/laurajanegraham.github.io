@@ -1,163 +1,161 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Laura Jane Graham</title>
-    <link>https://laurajanegraham.github.io/home/</link>
+    <link>/home/</link>
     <description>Recent content in Homes on Laura Jane Graham</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019</copyright>
     
-	<atom:link href="https://laurajanegraham.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://laurajanegraham.github.io/home/slider/</link>
+      <link>/home/slider/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/home/slider/</guid>
+      <guid>/home/slider/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>https://laurajanegraham.github.io/home/hero/</link>
+      <link>/home/hero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/home/hero/</guid>
+      <guid>/home/hero/</guid>
       <description>The Best Way to Create the Website You Want from Markdown (or RStudio/Jupyter)
-Build Anything with Widgets
-Star</description>
+Build Anything with Widgets</description>
     </item>
     
     <item>
       <title>Biography</title>
-      <link>https://laurajanegraham.github.io/home/about/</link>
+      <link>/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/home/about/</guid>
+      <guid>/home/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>https://laurajanegraham.github.io/home/skills/</link>
+      <link>/home/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/home/skills/</guid>
+      <guid>/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://laurajanegraham.github.io/home/experience/</link>
+      <link>/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/home/experience/</guid>
+      <guid>/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>https://laurajanegraham.github.io/home/accomplishments/</link>
+      <link>/home/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/home/accomplishments/</guid>
+      <guid>/home/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Publications</title>
-      <link>https://laurajanegraham.github.io/home/publications_featured/</link>
+      <link>/home/publications_featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/home/publications_featured/</guid>
+      <guid>/home/publications_featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://laurajanegraham.github.io/home/publications/</link>
+      <link>/home/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/home/publications/</guid>
-      <description> Quickly discover relevant content by filtering publications.
-  </description>
+      <guid>/home/publications/</guid>
+      <description>Quickly discover relevant content by filtering publications.</description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://laurajanegraham.github.io/home/talks/</link>
+      <link>/home/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/home/talks/</guid>
+      <guid>/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://laurajanegraham.github.io/home/posts/</link>
+      <link>/home/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/home/posts/</guid>
+      <guid>/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://laurajanegraham.github.io/home/projects/</link>
+      <link>/home/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/home/projects/</guid>
+      <guid>/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://laurajanegraham.github.io/home/teaching/</link>
+      <link>/home/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/home/teaching/</guid>
-      <description>  This is an example of using the custom widget to create your own homepage section.
+      <guid>/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
 This section also demonstrates how to apply the background option to create an image parallax effect. Backgrounds can be applied to any section.
-  Example content I am a teaching instructor for the following courses at University X:
+Example content I am a teaching instructor for the following courses at University X:
  CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
     </item>
     
     <item>
       <title>Gallery</title>
-      <link>https://laurajanegraham.github.io/home/gallery/</link>
+      <link>/home/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/home/gallery/</guid>
+      <guid>/home/gallery/</guid>
       <description>          </description>
     </item>
     
     <item>
       <title>Popular Topics</title>
-      <link>https://laurajanegraham.github.io/home/tags/</link>
+      <link>/home/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/home/tags/</guid>
+      <guid>/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>https://laurajanegraham.github.io/home/people/</link>
+      <link>/home/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/home/people/</guid>
+      <guid>/home/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://laurajanegraham.github.io/home/contact/</link>
+      <link>/home/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/home/contact/</guid>
+      <guid>/home/contact/</guid>
       <description></description>
     </item>
     

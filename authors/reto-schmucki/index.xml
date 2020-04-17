@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reto Schmucki on Laura Jane Graham</title>
-    <link>https://laurajanegraham.github.io/authors/reto-schmucki/</link>
+    <link>/authors/reto-schmucki/</link>
     <description>Recent content in Reto Schmucki on Laura Jane Graham</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019</copyright>
     <lastBuildDate>Mon, 11 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://laurajanegraham.github.io/authors/reto-schmucki/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/reto-schmucki/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>An analytical framework for spatially targeted management of natural capital</title>
-      <link>https://laurajanegraham.github.io/publication/2019_nsust/</link>
+      <link>/publication/2019_nsust/</link>
       <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/publication/2019_nsust/</guid>
+      <guid>/publication/2019_nsust/</guid>
       <description></description>
     </item>
     

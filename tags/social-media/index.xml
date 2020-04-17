@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>social media on Laura Jane Graham</title>
-    <link>https://laurajanegraham.github.io/tags/social-media/</link>
+    <link>/tags/social-media/</link>
     <description>Recent content in social media on Laura Jane Graham</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019</copyright>
     <lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://laurajanegraham.github.io/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Scale-dependency in drivers of outdoor recreation in England</title>
-      <link>https://laurajanegraham.github.io/publication/2019_pan/</link>
+      <link>/publication/2019_pan/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laurajanegraham.github.io/publication/2019_pan/</guid>
-      <description></description>
+      <guid>/publication/2019_pan/</guid>
+      <description>Why do we want to visit places for outdoor recreation and how can we measure this?</description>
     </item>
     
   </channel>

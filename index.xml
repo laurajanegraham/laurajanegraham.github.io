@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Laura Jane Graham on Laura Jane Graham</title>
+    <title>Laura Jane Graham</title>
     <link>https://laurajanegraham.github.io/</link>
-    <description>Recent content in Laura Jane Graham on Laura Jane Graham</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy;2019</copyright>
-    <lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+      <atom:link href="https://laurajanegraham.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laura Jane Graham</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://laurajanegraham.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Laura Jane Graham</title>
+      <link>https://laurajanegraham.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Incorporating geodiversity in ecosystem service decisions</title>
+      <link>https://laurajanegraham.github.io/publication/2020_tbsm/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://laurajanegraham.github.io/publication/2020_tbsm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Scale-dependency in drivers of outdoor recreation in England</title>
       <link>https://laurajanegraham.github.io/publication/2019_pan/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://laurajanegraham.github.io/publication/2019_pan/</guid>
       <description></description>
     </item>
@@ -23,7 +32,6 @@
       <title>Ignoring the spatial structure of the sea cucumber Isostichopus fuscus distribution when granting quotas can be costly</title>
       <link>https://laurajanegraham.github.io/publication/2019_ocma/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://laurajanegraham.github.io/publication/2019_ocma/</guid>
       <description></description>
     </item>
@@ -32,7 +40,6 @@
       <title>Mapping access to domestic water supplies from incomplete data in developing countries: An illustrative assessment for Kenya</title>
       <link>https://laurajanegraham.github.io/publication/2019_plosone/</link>
       <pubDate>Fri, 17 May 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://laurajanegraham.github.io/publication/2019_plosone/</guid>
       <description></description>
     </item>
@@ -41,7 +48,6 @@
       <title>Survival estimates of bird species across altered habitats in the tropical Andes</title>
       <link>https://laurajanegraham.github.io/publication/2019_jfo/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://laurajanegraham.github.io/publication/2019_jfo/</guid>
       <description></description>
     </item>
@@ -50,7 +56,6 @@
       <title>Incorporating fine‐scale environmental heterogeneity into broad‐extent models</title>
       <link>https://laurajanegraham.github.io/publication/2019_mee2/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://laurajanegraham.github.io/publication/2019_mee2/</guid>
       <description></description>
     </item>
@@ -59,7 +64,6 @@
       <title>An analytical framework for spatially targeted management of natural capital</title>
       <link>https://laurajanegraham.github.io/publication/2019_nsust/</link>
       <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://laurajanegraham.github.io/publication/2019_nsust/</guid>
       <description></description>
     </item>
@@ -68,51 +72,24 @@
       <title>Spatial models of carbon, nitrogen and sulphur stable isotope distributions (isoscapes) across a shelf sea: An INLA approach</title>
       <link>https://laurajanegraham.github.io/publication/2019_mee1/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://laurajanegraham.github.io/publication/2019_mee1/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Example Page</title>
-      <link>https://laurajanegraham.github.io/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurajanegraham.github.io/tutorial/example/</guid>
-      <description>
-
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
     </item>
     
     <item>
       <title>Building a website with blogdown</title>
       <link>https://laurajanegraham.github.io/post/getting-started/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurajanegraham.github.io/post/getting-started/</guid>
-      <description>
-
-&lt;p&gt;Having seen a few nice looking websites which use the Hugo academic theme, I thought I&amp;rsquo;d have a go at revamping my website. I&amp;rsquo;m not going to write a whole new post about how to do this - there are plenty of these online. I just thought I&amp;rsquo;d point out some resources that I found useful.&lt;/p&gt;
-
-&lt;p&gt;I mainly worked from Alistair Bailey&amp;rsquo;s really detailed guide to &lt;a href=&#34;http://ab604.github.io/docs/website_bookdown/&#34; target=&#34;_blank&#34;&gt;building a website using blogdown in R&lt;/a&gt;. This was pretty comprehensive and I had a site I was happy with up and running very quickly. Two key things I needed from elsewhere were (1) how to upload the site to my existing GitHub pages address; and (2) how to get the &lt;code&gt;cite&lt;/code&gt; buttons on publications that I&amp;rsquo;d seen on other sites.&lt;/p&gt;
-
+      <description>&lt;p&gt;Having seen a few nice looking websites which use the Hugo academic theme, I thought I&amp;rsquo;d have a go at revamping my website. I&amp;rsquo;m not going to write a whole new post about how to do this - there are plenty of these online. I just thought I&amp;rsquo;d point out some resources that I found useful.&lt;/p&gt;
+&lt;p&gt;I mainly worked from Alistair Bailey&amp;rsquo;s really detailed guide to 
+&lt;a href=&#34;http://ab604.github.io/docs/website_bookdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;building a website using blogdown in R&lt;/a&gt;. This was pretty comprehensive and I had a site I was happy with up and running very quickly. Two key things I needed from elsewhere were (1) how to upload the site to my existing GitHub pages address; and (2) how to get the &lt;code&gt;cite&lt;/code&gt; buttons on publications that I&amp;rsquo;d seen on other sites.&lt;/p&gt;
 &lt;h3 id=&#34;linking-to-github-pages&#34;&gt;Linking to GitHub pages&lt;/h3&gt;
-
-&lt;p&gt;The main issue I had with building the site was linking it to my existing GitHub pages site. The guide I followed provided instructions on linking to Netlify. For anyone also wanting to link to GitHub pages, Tyler Clavelle explains how to do so with a &lt;a href=&#34;https://tclavelle.github.io/blog/blogdown_github/&#34; target=&#34;_blank&#34;&gt;two repository approach&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;The main issue I had with building the site was linking it to my existing GitHub pages site. The guide I followed provided instructions on linking to Netlify. For anyone also wanting to link to GitHub pages, Tyler Clavelle explains how to do so with a 
+&lt;a href=&#34;https://tclavelle.github.io/blog/blogdown_github/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;two repository approach&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;cite-button&#34;&gt;Cite button&lt;/h3&gt;
-
-&lt;p&gt;To get the &lt;code&gt;cite&lt;/code&gt; button next to the publication (along with &lt;code&gt;PDF&lt;/code&gt; &lt;code&gt;Code&lt;/code&gt; etc. buttons), there needs to be a separate &lt;code&gt;.bib&lt;/code&gt; file for each publication in the &lt;code&gt;static/files/citations&lt;/code&gt; directory. This file needs to have the same name as the &lt;code&gt;.md&lt;/code&gt; file for the publication. I have modified the code by &lt;a href=&#34;https://lbusett.netlify.com/post/automatically-importing-publications-from-bibtex-to-a-hugo-academic-blog/&#34; target=&#34;_blank&#34;&gt;Lorenzo Busetto&lt;/a&gt; (which creates the required &lt;code&gt;.md&lt;/code&gt; files for each publication) to also output &lt;code&gt;.bib&lt;/code&gt; files to &lt;code&gt;static/files/citations&lt;/code&gt;:&lt;/p&gt;
-
+&lt;p&gt;To get the &lt;code&gt;cite&lt;/code&gt; button next to the publication (along with &lt;code&gt;PDF&lt;/code&gt; &lt;code&gt;Code&lt;/code&gt; etc. buttons), there needs to be a separate &lt;code&gt;.bib&lt;/code&gt; file for each publication in the &lt;code&gt;static/files/citations&lt;/code&gt; directory. This file needs to have the same name as the &lt;code&gt;.md&lt;/code&gt; file for the publication. I have modified the code by 
+&lt;a href=&#34;https://lbusett.netlify.com/post/automatically-importing-publications-from-bibtex-to-a-hugo-academic-blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lorenzo Busetto&lt;/a&gt; (which creates the required &lt;code&gt;.md&lt;/code&gt; files for each publication) to also output &lt;code&gt;.bib&lt;/code&gt; files to &lt;code&gt;static/files/citations&lt;/code&gt;:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;bibtex_2academic &amp;lt;- function(bibfile,
                              abstract = TRUE,
                              overwrite = FALSE) {
@@ -309,18 +286,17 @@
   )
 }
 &lt;/code&gt;&lt;/pre&gt;
-
 &lt;h3 id=&#34;final-thoughts-and-extra-resources&#34;&gt;Final thoughts and extra resources&lt;/h3&gt;
-
 &lt;p&gt;To make tweaks to my site, I mostly just found it useful to have a bit of a look at other sites that have been built with blogdown. Often the source code is discoverable (for example for a &lt;code&gt;&amp;lt;username&amp;gt;.github.io&lt;/code&gt; site, the code will be at &lt;code&gt;github.com/&amp;lt;username&amp;gt;/&amp;lt;username&amp;gt;.github.io&lt;/code&gt;). There are lots of resources out there about using blogdown to build sites. Here are some examples:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt;The blogdown package handbook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://alison.rbind.io/post/up-and-running-with-blogdown/&#34; target=&#34;_blank&#34;&gt;Up and running with blogdown, by Alison Presmanes Hill&lt;/a&gt;: This guide also provides links to resources on using Git, RStudio and Terminal.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mikeyharper.uk/migrating-to-blogdown/&#34; target=&#34;_blank&#34;&gt;Mikey Harper explains the why of migrating to blogdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The blogdown package handbook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://alison.rbind.io/post/up-and-running-with-blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Up and running with blogdown, by Alison Presmanes Hill&lt;/a&gt;: This guide also provides links to resources on using Git, RStudio and Terminal.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://mikeyharper.uk/migrating-to-blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mikey Harper explains the why of migrating to blogdown&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&amp;hellip;and many more out there.&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Happy website building!&lt;/p&gt;
 </description>
     </item>
@@ -329,7 +305,6 @@
       <title>The incidence function model as a tool for landscape-scale ecological impact assessments</title>
       <link>https://laurajanegraham.github.io/publication/2018_lup/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://laurajanegraham.github.io/publication/2018_lup/</guid>
       <description></description>
     </item>
@@ -338,7 +313,6 @@
       <title>Future geographic patterns of novel and disappearing assemblages across three dimensions of diversity: A case study with Ecuadorian hummingbirds</title>
       <link>https://laurajanegraham.github.io/publication/2017_ddi/</link>
       <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://laurajanegraham.github.io/publication/2017_ddi/</guid>
       <description></description>
     </item>
@@ -347,51 +321,19 @@
       <title>Metapopulation modelling of long-term urban habitat-loss scenarios</title>
       <link>https://laurajanegraham.github.io/publication/2017_lecol/</link>
       <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://laurajanegraham.github.io/publication/2017_lecol/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>https://laurajanegraham.github.io/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurajanegraham.github.io/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
     </item>
     
     <item>
       <title>SCALEFORES</title>
       <link>https://laurajanegraham.github.io/project/scalefores/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://laurajanegraham.github.io/project/scalefores/</guid>
       <description>&lt;p&gt;Land is a limited resource that must fulfil multiple functions. The big question is, how can we meet growing human demand for resources and ensure human well-being, without impairing biodiversity and ecosystem functions?&lt;/p&gt;
-
 &lt;p&gt;Such questions necessitate a landscape ecological approach, on the principle that ecosystem composition, structure and function partially depend on the spatial (and temporal) context of the ecosystem (i.e., its landscape context).&lt;/p&gt;
-
 &lt;p&gt;In our research we adopt a landscape ecological approach to study a wide range of ecosystem services. We do empirical analyses of existing biophysical and socioeconomic datasets across broad geographic regions, in addition to spatial simulation modelling, to understand how landscape context affects ecosystem service provision at multiple scales.&lt;/p&gt;
-
 &lt;p&gt;The understanding gained from this research should be useful in understanding how to design, protect, and enhance landscapes relative to ecosystem services at multiple scales, and to inform tools for mapping ecosystem services.&lt;/p&gt;
-
 &lt;p&gt;SCALEFORES is a 5-year project (July 2016 to July 2021) that is funded by an ERC Starting Grant to Felix Eigenbrod&lt;/p&gt;
 </description>
     </item>
@@ -400,9 +342,44 @@
       <title>Strengthening Urban Landscape Planning: a metapopulation modelling framework</title>
       <link>https://laurajanegraham.github.io/publication/2016_bookchap/</link>
       <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://laurajanegraham.github.io/publication/2016_bookchap/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Using citizen science data for conservation planning: Methods for quality control and downscaling for use in stochastic patch occupancy modelling</title>
+      <link>https://laurajanegraham.github.io/publication/2015_biocons/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://laurajanegraham.github.io/publication/2015_biocons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate change impacts on hummingbirds</title>
+      <link>https://laurajanegraham.github.io/project/hummingbirds/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0100</pubDate>
+      <guid>https://laurajanegraham.github.io/project/hummingbirds/</guid>
+      <description>&lt;p&gt;Climate change increasingly influences animal populations in both temperate and tropical ecosystems, yet we know little about how the majority of species will respond to these changes. This lack of knowledge limits our ability to predict species responses and manage them in the face of climate change. We are combining time-series data for hummingbirds with climate and remote sensing data to evaluate what changes have occurred in hummingbird populations. We are investigating variation in hummingbird resources and hummingbird physiological responses to different environmental conditions to start to determine why these changes might have occurred. Finally, we will predict how species, phylogenetic and functional diversity might be influenced by climate changes.&lt;/p&gt;
+&lt;p&gt;Project PI Catherine Graham, in collaboration with Scott Goetz and Pieter Beck, Susan Wethington, Don Powers and Tim Essington. This project was funded under NASA&amp;rsquo;s Biodiversity Program.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Where next for macroecology: citizen macroecology?</title>
+      <link>https://laurajanegraham.github.io/publication/2014_frontiers/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://laurajanegraham.github.io/publication/2014_frontiers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planning urban landscapes for biodiversity</title>
+      <link>https://laurajanegraham.github.io/project/urban-landscapes/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0100</pubDate>
+      <guid>https://laurajanegraham.github.io/project/urban-landscapes/</guid>
+      <description>&lt;p&gt;Conserving biodiversity in urban areas has important implications for human well-being, species persistence and future conservation efforts. Biodiversity has a positive impact on human well-being both directly, and through the provision of ecosystem services. Protecting urban biodiversity can have benefits for species conservation at broader scales: urban remnant habitat can provide crucial habitat for native species that are under threat from agricultural intensification in the wider countryside. Habitat loss and fragmentation together pose one of the greatest threats to species persistence. With a large proportion of the population living in urban areas (~80% in the UK) and populations projected to rise, further loss of urban habitat is inevitable. We developed a metapopulation-modelling framework to allow us to understand the landscape-scale effects of urbanisation on species&amp;rsquo; persistence. We applied our framework to both applied and scenario modelling questions.&lt;/p&gt;
+&lt;p&gt;This research was funded by an ESRC PhD studentship (award no. 1055165).&lt;/p&gt;
+</description>
     </item>
     
   </channel>

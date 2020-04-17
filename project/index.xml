@@ -1,44 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Laura Jane Graham</title>
+    <title>Projects | Laura Jane Graham</title>
     <link>https://laurajanegraham.github.io/project/</link>
-    <description>Recent content in Projects on Laura Jane Graham</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy;2019</copyright>
-    <lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://laurajanegraham.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://laurajanegraham.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://laurajanegraham.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://laurajanegraham.github.io/project/</link>
+    </image>
     
     <item>
       <title>SCALEFORES</title>
       <link>https://laurajanegraham.github.io/project/scalefores/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://laurajanegraham.github.io/project/scalefores/</guid>
-      <description>Land is a limited resource that must fulfil multiple functions. The big question is, how can we meet growing human demand for resources and ensure human well-being, without impairing biodiversity and ecosystem functions?
-Such questions necessitate a landscape ecological approach, on the principle that ecosystem composition, structure and function partially depend on the spatial (and temporal) context of the ecosystem (i.e., its landscape context).
-In our research we adopt a landscape ecological approach to study a wide range of ecosystem services.</description>
+      <description>&lt;p&gt;Land is a limited resource that must fulfil multiple functions. The big question is, how can we meet growing human demand for resources and ensure human well-being, without impairing biodiversity and ecosystem functions?&lt;/p&gt;
+&lt;p&gt;Such questions necessitate a landscape ecological approach, on the principle that ecosystem composition, structure and function partially depend on the spatial (and temporal) context of the ecosystem (i.e., its landscape context).&lt;/p&gt;
+&lt;p&gt;In our research we adopt a landscape ecological approach to study a wide range of ecosystem services. We do empirical analyses of existing biophysical and socioeconomic datasets across broad geographic regions, in addition to spatial simulation modelling, to understand how landscape context affects ecosystem service provision at multiple scales.&lt;/p&gt;
+&lt;p&gt;The understanding gained from this research should be useful in understanding how to design, protect, and enhance landscapes relative to ecosystem services at multiple scales, and to inform tools for mapping ecosystem services.&lt;/p&gt;
+&lt;p&gt;SCALEFORES is a 5-year project (July 2016 to July 2021) that is funded by an ERC Starting Grant to Felix Eigenbrod&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Climate change impacts on hummingbirds</title>
       <link>https://laurajanegraham.github.io/project/hummingbirds/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0100</pubDate>
-      
       <guid>https://laurajanegraham.github.io/project/hummingbirds/</guid>
-      <description>Climate change increasingly influences animal populations in both temperate and tropical ecosystems, yet we know little about how the majority of species will respond to these changes. This lack of knowledge limits our ability to predict species responses and manage them in the face of climate change. We are combining time-series data for hummingbirds with climate and remote sensing data to evaluate what changes have occurred in hummingbird populations. We are investigating variation in hummingbird resources and hummingbird physiological responses to different environmental conditions to start to determine why these changes might have occurred.</description>
+      <description>&lt;p&gt;Climate change increasingly influences animal populations in both temperate and tropical ecosystems, yet we know little about how the majority of species will respond to these changes. This lack of knowledge limits our ability to predict species responses and manage them in the face of climate change. We are combining time-series data for hummingbirds with climate and remote sensing data to evaluate what changes have occurred in hummingbird populations. We are investigating variation in hummingbird resources and hummingbird physiological responses to different environmental conditions to start to determine why these changes might have occurred. Finally, we will predict how species, phylogenetic and functional diversity might be influenced by climate changes.&lt;/p&gt;
+&lt;p&gt;Project PI Catherine Graham, in collaboration with Scott Goetz and Pieter Beck, Susan Wethington, Don Powers and Tim Essington. This project was funded under NASA&amp;rsquo;s Biodiversity Program.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Planning urban landscapes for biodiversity</title>
       <link>https://laurajanegraham.github.io/project/urban-landscapes/</link>
       <pubDate>Sat, 01 Oct 2011 00:00:00 +0100</pubDate>
-      
       <guid>https://laurajanegraham.github.io/project/urban-landscapes/</guid>
-      <description>Conserving biodiversity in urban areas has important implications for human well-being, species persistence and future conservation efforts. Biodiversity has a positive impact on human well-being both directly, and through the provision of ecosystem services. Protecting urban biodiversity can have benefits for species conservation at broader scales: urban remnant habitat can provide crucial habitat for native species that are under threat from agricultural intensification in the wider countryside. Habitat loss and fragmentation together pose one of the greatest threats to species persistence.</description>
+      <description>&lt;p&gt;Conserving biodiversity in urban areas has important implications for human well-being, species persistence and future conservation efforts. Biodiversity has a positive impact on human well-being both directly, and through the provision of ecosystem services. Protecting urban biodiversity can have benefits for species conservation at broader scales: urban remnant habitat can provide crucial habitat for native species that are under threat from agricultural intensification in the wider countryside. Habitat loss and fragmentation together pose one of the greatest threats to species persistence. With a large proportion of the population living in urban areas (~80% in the UK) and populations projected to rise, further loss of urban habitat is inevitable. We developed a metapopulation-modelling framework to allow us to understand the landscape-scale effects of urbanisation on species&amp;rsquo; persistence. We applied our framework to both applied and scenario modelling questions.&lt;/p&gt;
+&lt;p&gt;This research was funded by an ESRC PhD studentship (award no. 1055165).&lt;/p&gt;
+</description>
     </item>
     
   </channel>
