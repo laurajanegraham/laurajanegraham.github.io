@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nathan Fox | Laura Jane Graham</title>
-    <link>https://laurajanegraham.github.io/author/nathan-fox/</link>
-      <atom:link href="https://laurajanegraham.github.io/author/nathan-fox/index.xml" rel="self" type="application/rss+xml" />
-    <description>Nathan Fox</description>
+    <title>biological-datasets | Laura Jane Graham</title>
+    <link>https://laurajanegraham.github.io/tag/biological-datasets/</link>
+      <atom:link href="https://laurajanegraham.github.io/tag/biological-datasets/index.xml" rel="self" type="application/rss+xml" />
+    <description>biological-datasets</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurajanegraham.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Nathan Fox</title>
-      <link>https://laurajanegraham.github.io/author/nathan-fox/</link>
+      <title>biological-datasets</title>
+      <link>https://laurajanegraham.github.io/tag/biological-datasets/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://laurajanegraham.github.io/publication/2020_softwarex/</link>
       <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://laurajanegraham.github.io/publication/2020_softwarex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Incorporating geodiversity in ecosystem service decisions</title>
-      <link>https://laurajanegraham.github.io/publication/2020_tbsm/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://laurajanegraham.github.io/publication/2020_tbsm/</guid>
       <description></description>
     </item>
     

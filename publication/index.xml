@@ -5,12 +5,20 @@
     <link>https://laurajanegraham.github.io/publication/</link>
       <atom:link href="https://laurajanegraham.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurajanegraham.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://laurajanegraham.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>“photosearcher” package in R: An accessible and reproducible method for harvesting large datasets from Flickr</title>
+      <link>https://laurajanegraham.github.io/publication/2020_softwarex/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://laurajanegraham.github.io/publication/2020_softwarex/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Identifying Agricultural Frontiers for Modeling Global Cropland Expansion</title>
